@@ -1,0 +1,222 @@
+Report for Institution Code CHAS, Resource chas_mammals
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 184
+Number of records retrieved in searches: 2774
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Mexico ; Times: 15
+	Country: Unknown ; Times: 26
+	Country: United States ; Times: 132
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: Switzerland ; Times: 2
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-09 ; Times: 2
+	Date: 2016-02-22 ; Times: 2
+	Date: 2016-02-18 ; Times: 12
+	Date: 2016-02-19 ; Times: 4
+	Date: 2016-02-12 ; Times: 8
+	Date: 2016-02-13 ; Times: 1
+	Date: 2016-02-10 ; Times: 3
+	Date: 2016-02-11 ; Times: 4
+	Date: 2016-02-16 ; Times: 13
+	Date: 2016-02-17 ; Times: 5
+	Date: 2016-02-14 ; Times: 2
+	Date: 2016-02-15 ; Times: 3
+	Date: 2016-02-29 ; Times: 9
+	Date: 2016-02-28 ; Times: 1
+	Date: 2016-02-23 ; Times: 7
+	Date: 2016-02-08 ; Times: 4
+	Date: 2016-02-21 ; Times: 3
+	Date: 2016-02-27 ; Times: 1
+	Date: 2016-02-26 ; Times: 2
+	Date: 2016-02-25 ; Times: 2
+	Date: 2016-02-24 ; Times: 6
+	Date: 2016-02-01 ; Times: 2
+	Date: 2016-02-03 ; Times: 22
+	Date: 2016-02-02 ; Times: 12
+	Date: 2016-02-05 ; Times: 10
+	Date: 2016-02-04 ; Times: 33
+	Date: 2016-02-07 ; Times: 8
+	Date: 2016-02-06 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Mississippi" ; Times: 1
+	Query: "Elephantidae mappable:1" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "Didelphis" ; Times: 1
+	Query: "mustela (nivalis OR erminea)" ; Times: 13
+	Query: "specificepithet:parvus genus:Perognathus" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "Didelphis mappable:1" ; Times: 1
+	Query: "catalognumber:2096 institutioncode:CHAS" ; Times: 1
+	Query: "&#34;didelphis virginiana&#34; mappable:1" ; Times: 1
+	Query: "Ursus" ; Times: 1
+	Query: "13 lined ground squirrel" ; Times: 1
+	Query: "fmnh" ; Times: 1
+	Query: "Myotis septentrionalis (Illinois)" ; Times: 1
+	Query: "3991" ; Times: 1
+	Query: "spilogale putorius" ; Times: 2
+	Query: "Blarina carolinensis" ; Times: 1
+	Query: "county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:hudsonius genus:Zapus stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "Canis latrans" ; Times: 3
+	Query: "1931/105" ; Times: 1
+	Query: "porcupine mappable:1" ; Times: 2
+	Query: "Coyote" ; Times: 1
+	Query: "dipodomys continent:america" ; Times: 1
+	Query: "county:&#34;Graham&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;illinois&#34;" ; Times: 2
+	Query: "catalognumber:710 institutioncode:CHAS" ; Times: 1
+	Query: "Geomys" ; Times: 1
+	Query: "genus:sorex county:&#34;clear creek&#34; (institutioncode:CHAS OR institutioncode:USNM)" ; Times: 2
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "&#34;Didelphis&#34; &#34;Didelphis virginiana&#34; mappable:1" ; Times: 1
+	Query: "catalognumber:2471 institutioncode:CHAS" ; Times: 1
+	Query: "Myotis grisescens" ; Times: 1
+	Query: "Spermophilus franklinii" ; Times: 1
+	Query: "antrozous pallidus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Iowa" ; Times: 1
+	Query: "sorex (NOT institutioncode:USNM)" ; Times: 3
+	Query: "type:specimen specificepithet:hudsonius genus:zapus stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "Prairie dog" ; Times: 1
+	Query: "Rabbit" ; Times: 1
+	Query: "(Florida)" ; Times: 1
+	Query: "catalognumber:2594 institutioncode:CHAS" ; Times: 1
+	Query: "erethizon dorsatum mappable:1" ; Times: 2
+	Query: "didelphis virginiana mappable:1" ; Times: 4
+	Query: "alaska" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "sciuridae" ; Times: 1
+	Query: "wolf" ; Times: 2
+	Query: "FMNH" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "DIPODOMYS" ; Times: 1
+	Query: "&#34;Didelphis virginiana&#34; mappable:1" ; Times: 3
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;indiana&#34;" ; Times: 1
+	Query: "county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona" ; Times: 12
+	Query: "ontario" ; Times: 1
+	Query: "&#34;Erethizon&#34; &#34;Erethizon dorsatum&#34; mappable:1" ; Times: 1
+	Query: "Spermophilus tridecemlineatus" ; Times: 1
+	Query: "lepus americanus" ; Times: 8
+	Query: "Ursidae" ; Times: 1
+	Query: "&#34;Erethizon dorsatum&#34; mappable:1" ; Times: 2
+	Query: "felis concolor" ; Times: 1
+	Query: "louisiana" ; Times: 1
+	Query: "Mephitis" ; Times: 1
+	Query: "sorex" ; Times: 1
+	Query: "Kangaroo rat mappable:1" ; Times: 1
+	Query: "Neovison vison" ; Times: 1
+	Query: "CM" ; Times: 1
+	Query: "genus:sorex (county:&#34;clear creek&#34; OR county:Douglas) (institutioncode:CHAS OR institutioncode:USNM)" ; Times: 2
+	Query: "Urocyon" ; Times: 1
+	Query: "ochotona princeps" ; Times: 3
+	Query: "callospermophilus lateralis" ; Times: 3
+	Query: "stateprovince:&#34;Ontario&#34; year &lt;= 1970" ; Times: 1
+	Query: "georgia" ; Times: 2
+	Query: "fur" ; Times: 1
+	Query: "myotis" ; Times: 2
+	Query: "bassariscus astutus" ; Times: 2
+	Query: "specificepithet:merriami genus:dipodomys county:&#34;riverside&#34;" ; Times: 1
+	Query: "&#34;erethizon dorsatum&#34; mappable:1" ; Times: 2
+	Query: "Mammoth Cave stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus" ; Times: 1
+	Query: "specificepithet:parvus genus:Perognathus mappable:1" ; Times: 1
+	Query: "dipodomys" ; Times: 2
+	Query: "(Illinois)" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus" ; Times: 1
+	Query: "castor" ; Times: 1
+	Query: "canadian lynx" ; Times: 1
+	Query: "mustela nigripes" ; Times: 2
+	Query: "Callospermophilus lateralis" ; Times: 1
+	Query: "Erethizon dorsatum mappable:1" ; Times: 7
+	Query: "specificepithet:californicus genus:microtus" ; Times: 1
+	Query: "Taxidea taxus" ; Times: 2
+	Query: "Didelphimorphia" ; Times: 1
+	Query: "michigan" ; Times: 1
+	Query: "gbifdatasetid:4837d6b0-19fe-4fe4-9ddf-b62dd17a060e" ; Times: 3
+	Query: "Thomomys clusius" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:Zapus stateprovince:&#34;north dakota&#34;" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "Myotis" ; Times: 1
+	Query: "Mammoth" ; Times: 1
+	Query: "Canis lupus baileyi" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 2
+	Query: "canis latrans" ; Times: 9
+	Query: "Didelphis Virginiana mappable:1" ; Times: 1
+	Query: "dog" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 52 (out of 512 download events in this period)
+Total number of records downloaded: 902
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Unknown ; Times: 18
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 2
+	Date: 2016-02-08 ; Times: 1
+	Date: 2016-02-18 ; Times: 5
+	Date: 2016-02-19 ; Times: 8
+	Date: 2016-02-12 ; Times: 1
+	Date: 2016-02-13 ; Times: 3
+	Date: 2016-02-10 ; Times: 2
+	Date: 2016-02-11 ; Times: 1
+	Date: 2016-02-16 ; Times: 3
+	Date: 2016-02-17 ; Times: 2
+	Date: 2016-02-14 ; Times: 1
+	Date: 2016-02-15 ; Times: 1
+	Date: 2016-02-02 ; Times: 2
+	Date: 2016-02-09 ; Times: 1
+	Date: 2016-02-22 ; Times: 2
+	Date: 2016-02-21 ; Times: 1
+	Date: 2016-02-27 ; Times: 4
+	Date: 2016-02-26 ; Times: 1
+	Date: 2016-02-25 ; Times: 2
+	Date: 2016-02-24 ; Times: 1
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-03 ; Times: 2
+	Date: 2016-02-28 ; Times: 2
+	Date: 2016-02-05 ; Times: 1
+	Date: 2016-02-04 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "heteromyidae mappable:1" ; Times: 1
+	Query: "county:&#34;Graham&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:hudsonius genus:Zapus stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "genus:sorex (NOT institutioncode:USNM)" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "spermophilus tridecemlineatus" ; Times: 1
+	Query: "puma concolor" ; Times: 8
+	Query: "ochotona princeps" ; Times: 1
+	Query: "Puma Concolor" ; Times: 1
+	Query: "septentrionalis class:Mammalia stateprovince:&#34;Pennsylvania&#34;" ; Times: 2
+	Query: "Callospermophilus lateralis" ; Times: 3
+	Query: "continent:North America year &gt;= 1950 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Puma concolor" ; Times: 5
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;north dakota&#34;" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 18
+	Query: "castor canadensis" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "genus:martes continent:north america" ; Times: 1
+
+
+End of report.
