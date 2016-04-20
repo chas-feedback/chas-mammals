@@ -1,0 +1,106 @@
+Report for Institution Code CHAS, Resource chas_mammals
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 63
+Number of records retrieved in searches: 1318
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 44
+	Country: Unknown ; Times: 12
+	Country: Canada ; Times: 4
+	Country: Switzerland ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-07 ; Times: 5
+	Date: 2016-03-11 ; Times: 11
+	Date: 2016-03-10 ; Times: 9
+	Date: 2016-03-01 ; Times: 4
+	Date: 2016-03-08 ; Times: 5
+	Date: 2016-03-09 ; Times: 5
+	Date: 2016-03-14 ; Times: 2
+	Date: 2016-03-04 ; Times: 6
+	Date: 2016-03-05 ; Times: 2
+	Date: 2016-03-02 ; Times: 4
+	Date: 2016-03-03 ; Times: 5
+	Date: 2016-03-13 ; Times: 2
+	Date: 2016-03-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:ursus" ; Times: 1
+	Query: "class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Sheldon" ; Times: 2
+	Query: "nycticeius humeralis" ; Times: 1
+	Query: "tamiasciurus" ; Times: 1
+	Query: "Geomys type:specimen" ; Times: 3
+	Query: "WILLETT" ; Times: 1
+	Query: "(spermophilus variegatus)" ; Times: 1
+	Query: "Ochotona mappable:1" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona" ; Times: 2
+	Query: "beaver" ; Times: 1
+	Query: "mustela (nivalis OR erminea)" ; Times: 7
+	Query: "H.H. Sheldon" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 3
+	Query: "elk" ; Times: 1
+	Query: "2229" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "Thomomys mazama" ; Times: 1
+	Query: "family:heteromyidae mappable:1 distance(location,geopoint(33.54139466898275,-117.39990234375))&lt;64650" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 2
+	Query: "specificepithet:borealis genus:Lasiurus stateprovince:&#34;Missouri&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "cryptotis parva" ; Times: 1
+	Query: "family:Cricetidae institutioncode:CHAS" ; Times: 1
+	Query: "Peromyscus" ; Times: 1
+	Query: "stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "ochotona princeps" ; Times: 2
+	Query: "prairie dog" ; Times: 1
+	Query: "ursidae" ; Times: 1
+	Query: "Nebraska" ; Times: 1
+	Query: "Geomys bursarius" ; Times: 2
+	Query: "type:specimen genus:Myodes" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 2
+	Query: "distance(location,geopoint(27.994401411046145,-81.5625))&lt;100000" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "white-tailed deer" ; Times: 1
+	Query: "snowshoe hare" ; Times: 1
+	Query: "Essex" ; Times: 1
+	Query: "Geomys" ; Times: 1
+	Query: "ochotona" ; Times: 3
+	Query: "neotoma lepida" ; Times: 1
+	Query: "Lasiurus borealis country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 230 download events in this period)
+Total number of records downloaded: 349
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Unknown ; Times: 10
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-09 ; Times: 3
+	Date: 2016-03-07 ; Times: 2
+	Date: 2016-03-05 ; Times: 2
+	Date: 2016-03-11 ; Times: 2
+	Date: 2016-03-10 ; Times: 4
+	Date: 2016-03-13 ; Times: 2
+	Date: 2016-03-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ochotona" ; Times: 2
+	Query: "Callospermophilus lateralis" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 13
+	Query: "Lynx rufus" ; Times: 1
+
+
+End of report.
