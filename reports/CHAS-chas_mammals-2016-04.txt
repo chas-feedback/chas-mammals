@@ -1,0 +1,286 @@
+Report for Institution Code CHAS, Resource chas_mammals
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 561
+Number of records retrieved in searches: 5098
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 29
+	Country: United States ; Times: 408
+	Country: Portugal ; Times: 5
+	Country: Mexico ; Times: 28
+	Country: Unknown ; Times: 78
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Spain ; Times: 5
+	Country: Brazil ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Norway ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 9
+	Date: 2016-04-02 ; Times: 2
+	Date: 2016-04-07 ; Times: 11
+	Date: 2016-04-06 ; Times: 15
+	Date: 2016-04-05 ; Times: 19
+	Date: 2016-04-04 ; Times: 13
+	Date: 2016-04-21 ; Times: 18
+	Date: 2016-04-20 ; Times: 29
+	Date: 2016-04-09 ; Times: 11
+	Date: 2016-04-08 ; Times: 19
+	Date: 2016-04-25 ; Times: 28
+	Date: 2016-04-24 ; Times: 18
+	Date: 2016-04-27 ; Times: 28
+	Date: 2016-04-26 ; Times: 26
+	Date: 2016-04-22 ; Times: 49
+	Date: 2016-04-18 ; Times: 20
+	Date: 2016-04-19 ; Times: 24
+	Date: 2016-04-14 ; Times: 50
+	Date: 2016-04-15 ; Times: 37
+	Date: 2016-04-16 ; Times: 17
+	Date: 2016-04-17 ; Times: 20
+	Date: 2016-04-10 ; Times: 7
+	Date: 2016-04-11 ; Times: 34
+	Date: 2016-04-12 ; Times: 13
+	Date: 2016-04-13 ; Times: 14
+	Date: 2016-04-29 ; Times: 7
+	Date: 2016-04-28 ; Times: 3
+	Date: 2016-04-23 ; Times: 20
+
+List of queries that retrieved data from the resource: 
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "tamias striatus" ; Times: 2
+	Query: "type:specimen specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "cryptotis" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "mustela (nivalis OR erminea)" ; Times: 69
+	Query: "microtus pennsylvanicus" ; Times: 2
+	Query: "distance(location,geopoint(31.979036,-108.937516))&lt;15000" ; Times: 1
+	Query: "(minnesota)" ; Times: 1
+	Query: "genus:Ammospermophilus mappable:1" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Wisconsin&#34;" ; Times: 4
+	Query: "sorex palustris" ; Times: 2
+	Query: "Odocoileus" ; Times: 1
+	Query: "genus:Napaeozapus" ; Times: 3
+	Query: "jwp jenks" ; Times: 2
+	Query: "porcupine" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 1
+	Query: "stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "CMNH" ; Times: 1
+	Query: "MINNESOTA" ; Times: 1
+	Query: "stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "Thomomys bottae" ; Times: 1
+	Query: "Sciurus niger AND preparations:skull" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 4
+	Query: "stateprovince:&#34;Virginia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Minnesota Point" ; Times: 2
+	Query: "peromyscus" ; Times: 2
+	Query: "stateprovince:&#34;Ontario&#34;" ; Times: 1
+	Query: "tamias amoenus" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "little brown bat" ; Times: 1
+	Query: "Didelphidae" ; Times: 1
+	Query: "blackberry" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus continent:North America" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "white tailed deer" ; Times: 2
+	Query: "Geomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Arizona&#34; (pricei)" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona" ; Times: 88
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "(weight)" ; Times: 1
+	Query: "type:specimen genus:bassariscus mappable:1" ; Times: 4
+	Query: "specificepithet:leucopus genus:Peromyscus" ; Times: 2
+	Query: "Marmota" ; Times: 4
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "Lasiurus AND Island" ; Times: 1
+	Query: "allegheny woodrat" ; Times: 3
+	Query: "specificepithet:polionotus genus:Peromyscus" ; Times: 1
+	Query: "Mustela erminea" ; Times: 1
+	Query: "Erethizon dorsatum epixanthum" ; Times: 1
+	Query: "microtus ochrogaster" ; Times: 2
+	Query: "mappable:1 distance(location,geopoint(29.590811469118474,-83.31782913330244))&lt;100000" ; Times: 1
+	Query: "free" ; Times: 1
+	Query: "361 county:&#34;Dixie&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "lutra lutra mappable:1" ; Times: 2
+	Query: "Dickenson county virginia" ; Times: 1
+	Query: "reithrodontomys megalotis megalotis" ; Times: 1
+	Query: "Sciurus carolinensis AND preparations:skull type:specimen" ; Times: 1
+	Query: "Mustela nigripes us" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "geomyidae" ; Times: 3
+	Query: "Bassariscus type:specimen mappable:1" ; Times: 3
+	Query: "wolf" ; Times: 1
+	Query: "stateprovince:&#34;Iowa&#34; country:&#34;United States&#34; mappable:1" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "genus:Spilogale" ; Times: 2
+	Query: "virginia opossum" ; Times: 1
+	Query: "type:specimen specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "lutra lutra" ; Times: 3
+	Query: "Peromyscus maniculatus stateprovince:&#34;Michigan&#34; year &gt;= 1930 year &lt;= 1940" ; Times: 1
+	Query: "ontario" ; Times: 5
+	Query: "specificepithet:floridana genus:Neotoma" ; Times: 2
+	Query: "class:Mammalia (weight) AND (rodentia)" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "minnesota mammalia" ; Times: 1
+	Query: "Artiodactyla" ; Times: 2
+	Query: "class:Mammalia (weight)" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Ursidae" ; Times: 2
+	Query: "Bassariscus" ; Times: 1
+	Query: "stateprovince:&#34;nebraska&#34;" ; Times: 1
+	Query: "mustela nigripes" ; Times: 173
+	Query: "Skull" ; Times: 1
+	Query: "Pennsylvania" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "White-tailed deer" ; Times: 2
+	Query: "genus:Neotoma stateprovince:&#34;Tennessee&#34;" ; Times: 4
+	Query: "institutioncode:chas" ; Times: 2
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:Microtus" ; Times: 3
+	Query: "least weasel" ; Times: 1
+	Query: "specificepithet:floridana genus:Neotoma stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "california ground squirrel" ; Times: 1
+	Query: "myotis" ; Times: 1
+	Query: "thomomys bottae" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-110.977516))&lt;15000" ; Times: 1
+	Query: "(castor canadensis)" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(29.554703511669793,-83.377670282498))&lt;100000" ; Times: 1
+	Query: "blackbird" ; Times: 1
+	Query: "dipodomys deserti" ; Times: 4
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Peromyscus maniculatus stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Iowa&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "georgia southern" ; Times: 3
+	Query: "distance(location,geopoint(31.809036,-110.807516))&lt;15000" ; Times: 1
+	Query: "stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Alberta&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "Peromyscus maniculatus stateprovince:&#34;Michigan&#34; year &gt;= 1930 year &lt;= 1960" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus" ; Times: 1
+	Query: "dipodomys" ; Times: 1
+	Query: "Michigan biological survey" ; Times: 1
+	Query: "gbifdatasetid:4837d6b0-19fe-4fe4-9ddf-b62dd17a060e" ; Times: 3
+	Query: "CM" ; Times: 1
+	Query: "type:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Mustelidae" ; Times: 2
+	Query: "dipodomys ordii" ; Times: 2
+	Query: "Callospermophilus lateralis" ; Times: 7
+	Query: "rafinesquii (Corynorhinus)" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "magister" ; Times: 1
+	Query: "stateprovince:&#34;indiana&#34; specificepithet:bursarius genus:geomys year &gt;= 1900 year &lt;= 2015" ; Times: 1
+	Query: "ONTARIO" ; Times: 16
+	Query: "Bassariscus mappable:1" ; Times: 2
+	Query: "lepus californicus" ; Times: 1
+	Query: "Geomyidae" ; Times: 6
+	Query: "ptarmigan" ; Times: 1
+	Query: "glaucomys" ; Times: 2
+	Query: "stateprovince:&#34;Ontario&#34; mappable:1" ; Times: 1
+	Query: "Tamias amoenus" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-108.767516))&lt;15000" ; Times: 1
+	Query: "yellowstone" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 2
+	Query: "Procyonidae" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Sciurus griseus AND preparations:skull type:specimen" ; Times: 1
+	Query: "specificepithet:latrans genus:canis" ; Times: 1
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "Smyrna" ; Times: 1
+	Query: "&#34;CMNH&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 145 (out of 1312 download events in this period)
+Total number of records downloaded: 26598
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 101
+	Country: Unknown ; Times: 21
+	Country: Portugal ; Times: 6
+	Country: Spain ; Times: 2
+	Country: Mexico ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 2
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-07 ; Times: 3
+	Date: 2016-04-06 ; Times: 12
+	Date: 2016-04-05 ; Times: 5
+	Date: 2016-04-04 ; Times: 4
+	Date: 2016-04-21 ; Times: 2
+	Date: 2016-04-20 ; Times: 10
+	Date: 2016-04-09 ; Times: 5
+	Date: 2016-04-08 ; Times: 4
+	Date: 2016-04-25 ; Times: 4
+	Date: 2016-04-24 ; Times: 4
+	Date: 2016-04-27 ; Times: 7
+	Date: 2016-04-26 ; Times: 5
+	Date: 2016-04-22 ; Times: 4
+	Date: 2016-04-18 ; Times: 2
+	Date: 2016-04-19 ; Times: 7
+	Date: 2016-04-14 ; Times: 14
+	Date: 2016-04-15 ; Times: 17
+	Date: 2016-04-16 ; Times: 4
+	Date: 2016-04-17 ; Times: 4
+	Date: 2016-04-10 ; Times: 2
+	Date: 2016-04-11 ; Times: 2
+	Date: 2016-04-12 ; Times: 8
+	Date: 2016-04-13 ; Times: 4
+	Date: 2016-04-29 ; Times: 2
+	Date: 2016-04-23 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Geomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "genus:Spilogale" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "type:specimen specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "type:specimen specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "canis lupus baileyi" ; Times: 1
+	Query: "lutra lutra mappable:1" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Michigan&#34;" ; Times: 2
+	Query: "sciurus aberti" ; Times: 1
+	Query: "type:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 8
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Wisconsin&#34;" ; Times: 2
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 85
+	Query: "Odocoileus" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Erethizon dorsatum epixanthum" ; Times: 1
+	Query: "tamias striatus" ; Times: 1
+	Query: "Geomyidae" ; Times: 1
+	Query: "glaucomys" ; Times: 1
+	Query: "Sciurus niger AND preparations:skull" ; Times: 1
+	Query: "Sciurus carolinensis AND preparations:skull type:specimen" ; Times: 1
+	Query: "specificepithet:floridana genus:Neotoma" ; Times: 2
+	Query: "Sciurus griseus AND preparations:skull type:specimen" ; Times: 1
+	Query: "Minnesota Point" ; Times: 1
+	Query: "thomomys bottae" ; Times: 3
+	Query: "class:Mammalia" ; Times: 12
+	Query: "specificepithet:leucopus genus:Peromyscus continent:North America" ; Times: 1
+	Query: "dipodomys deserti" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
