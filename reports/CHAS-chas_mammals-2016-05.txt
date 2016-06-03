@@ -1,0 +1,150 @@
+Report for Institution Code CHAS, Resource chas_mammals
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 129
+Number of records retrieved in searches: 2636
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: United States ; Times: 111
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Japan ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 3
+	Date: 2016-05-18 ; Times: 7
+	Date: 2016-05-17 ; Times: 2
+	Date: 2016-05-16 ; Times: 3
+	Date: 2016-05-15 ; Times: 20
+	Date: 2016-05-14 ; Times: 10
+	Date: 2016-05-13 ; Times: 2
+	Date: 2016-05-12 ; Times: 3
+	Date: 2016-05-11 ; Times: 3
+	Date: 2016-05-10 ; Times: 5
+	Date: 2016-05-31 ; Times: 2
+	Date: 2016-05-30 ; Times: 1
+	Date: 2016-05-08 ; Times: 2
+	Date: 2016-05-09 ; Times: 3
+	Date: 2016-05-01 ; Times: 4
+	Date: 2016-05-02 ; Times: 3
+	Date: 2016-05-03 ; Times: 12
+	Date: 2016-05-04 ; Times: 9
+	Date: 2016-05-05 ; Times: 8
+	Date: 2016-05-06 ; Times: 4
+	Date: 2016-05-07 ; Times: 1
+	Date: 2016-05-26 ; Times: 7
+	Date: 2016-05-24 ; Times: 4
+	Date: 2016-05-25 ; Times: 1
+	Date: 2016-05-22 ; Times: 3
+	Date: 2016-05-20 ; Times: 2
+	Date: 2016-05-21 ; Times: 2
+	Date: 2016-05-29 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "gray wolf" ; Times: 2
+	Query: "gbifdatasetid:4837d6b0-19fe-4fe4-9ddf-b62dd17a060e" ; Times: 6
+	Query: "canis lupus baileyi" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "hare" ; Times: 1
+	Query: "mephitis mephitis" ; Times: 3
+	Query: "zapus princeps" ; Times: 1
+	Query: "order:Chiroptera county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; institutioncode:CHAS" ; Times: 1
+	Query: "month &gt;= 5 month &lt;= 5 institutioncode:CHAS" ; Times: 3
+	Query: "Ondatra zibethicus stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "genus:tamias" ; Times: 1
+	Query: "virginia opossum" ; Times: 1
+	Query: "beaver" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona" ; Times: 17
+	Query: "mustela nigripes" ; Times: 14
+	Query: "Marmota marmota" ; Times: 2
+	Query: "castor canadensis" ; Times: 1
+	Query: "least shrew" ; Times: 1
+	Query: "modestus" ; Times: 1
+	Query: "Marmota" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "mustela (nivalis OR erminea)" ; Times: 10
+	Query: "Mustelidae" ; Times: 1
+	Query: "allegheny woodrat" ; Times: 1
+	Query: "specificepithet:quadrivittatus genus:Tamias" ; Times: 2
+	Query: "perognathus flavus" ; Times: 1
+	Query: "stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "marmot" ; Times: 1
+	Query: "turkey" ; Times: 1
+	Query: "myotis lucifugus" ; Times: 1
+	Query: "tamias striatus" ; Times: 1
+	Query: "specificepithet:amoenus genus:Tamias" ; Times: 1
+	Query: "mustela" ; Times: 1
+	Query: "Peromyscus" ; Times: 4
+	Query: "stateprovince:&#34;Arkansas&#34;" ; Times: 2
+	Query: "gault institutioncode:CHAS" ; Times: 1
+	Query: "taxidea taxus" ; Times: 1
+	Query: "genus:Peromyscus year &gt;= 2000 year &lt;= 2014" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "genus:Lepus continent:North America" ; Times: 2
+	Query: "Antrozous pallidus" ; Times: 1
+	Query: "order:Chiroptera county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 15
+	Query: "lontra canadensis" ; Times: 1
+	Query: "pika" ; Times: 3
+	Query: "specificepithet:bursarius genus:Geomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias" ; Times: 2
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "Marmota monax" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 3
+	Query: "ondatra zibethicus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "stateprovince:&#34;virginia&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 327 download events in this period)
+Total number of records downloaded: 6014
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Japan ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-09 ; Times: 1
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-14 ; Times: 1
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-12 ; Times: 5
+	Date: 2016-05-05 ; Times: 2
+	Date: 2016-05-22 ; Times: 2
+	Date: 2016-05-23 ; Times: 1
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gbifdatasetid:4837d6b0-19fe-4fe4-9ddf-b62dd17a060e" ; Times: 1
+	Query: "Peromyscus" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "genus:Lepus continent:North America" ; Times: 2
+	Query: "puma concolor" ; Times: 1
+	Query: "order:Chiroptera county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; institutioncode:CHAS" ; Times: 1
+	Query: "Marmota marmota" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "Canis type:specimen distance(location,geopoint(37.71859032558813,-95.44921875))&lt;2776004" ; Times: 1
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 2
+	Query: "bird" ; Times: 1
+	Query: "order:Chiroptera county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
