@@ -1,0 +1,253 @@
+Report for Institution Code CHAS, Resource chas_mammals
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 607
+Number of records retrieved in searches: 7289
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 380
+	Country: Netherlands ; Times: 193
+	Country: Portugal ; Times: 19
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Austria ; Times: 1
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 19
+	Date: 2016-09-22 ; Times: 9
+	Date: 2016-09-11 ; Times: 22
+	Date: 2016-09-10 ; Times: 16
+	Date: 2016-09-17 ; Times: 9
+	Date: 2016-09-16 ; Times: 12
+	Date: 2016-09-15 ; Times: 15
+	Date: 2016-09-14 ; Times: 23
+	Date: 2016-09-30 ; Times: 10
+	Date: 2016-09-19 ; Times: 8
+	Date: 2016-09-18 ; Times: 12
+	Date: 2016-09-06 ; Times: 35
+	Date: 2016-09-21 ; Times: 10
+	Date: 2016-09-01 ; Times: 29
+	Date: 2016-09-24 ; Times: 10
+	Date: 2016-09-25 ; Times: 10
+	Date: 2016-09-28 ; Times: 9
+	Date: 2016-09-29 ; Times: 11
+	Date: 2016-09-08 ; Times: 62
+	Date: 2016-09-09 ; Times: 14
+	Date: 2016-09-04 ; Times: 14
+	Date: 2016-09-23 ; Times: 27
+	Date: 2016-09-20 ; Times: 4
+	Date: 2016-09-07 ; Times: 81
+	Date: 2016-09-26 ; Times: 9
+	Date: 2016-09-27 ; Times: 6
+	Date: 2016-09-02 ; Times: 22
+	Date: 2016-09-03 ; Times: 16
+	Date: 2016-09-12 ; Times: 20
+	Date: 2016-09-05 ; Times: 63
+
+List of queries that retrieved data from the resource: 
+	Query: "north american porcupine genus:Erethizon dorsatum mappable:1" ; Times: 1
+	Query: "Castor" ; Times: 2
+	Query: "stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "Bison bison " ; Times: 3
+	Query: "&#34;bison bison&#34; mappable:1" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "mustela (nivalis OR erminea)" ; Times: 31
+	Query: "order:Rodentia stateprovince:&#34;Oregon&#34;" ; Times: 4
+	Query: "order:Rodentia stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "scientificname:&#34;ochotona princeps&#34;" ; Times: 1
+	Query: "&#34;north American porcupine&#34; genus:Erethizon dorsatum" ; Times: 1
+	Query: "Didelphis mappable:1" ; Times: 1
+	Query: "opossum mappable:1" ; Times: 3
+	Query: "&#34;didelphis virginiana&#34; mappable:1" ; Times: 9
+	Query: "order:Lagomorpha stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "weight; wt" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 2
+	Query: "porcupine" ; Times: 1
+	Query: "scientificname:&#34;eulemur fulvus&#34; OR scientificname:&#34;galago alleni&#34; OR scientificname:&#34;varecia variegata&#34; OR scientificname:&#34;parapithecus grangeri&#34; OR scientificname:&#34;megaladapis madagascariensis&#34; OR scientificname:&#34;ateles geoffroyi&#34; OR scientificname:&#34;sciurus carolinensis&#34; OR scientificname:&#34;daubentonia madagascariensis&#34; OR scientificname:&#34;nycticebus coucang&#34; OR scientificname:&#34;tupaia glis&#34; OR scientificname:&#34;tupaia minor&#34;" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "mammalia Tennessee" ; Times: 1
+	Query: "&#34;Erethizon&#34; &#34;north american porcupine&#34; mappable:1" ; Times: 1
+	Query: " mustela nigripes" ; Times: 26
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "Mephitis mephitis" ; Times: 1
+	Query: "John Gilbert" ; Times: 2
+	Query: "Zapus hudsonius" ; Times: 1
+	Query: "american pika" ; Times: 1
+	Query: "(didelphis &#34;virginiana&#34;) mappable:1" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 4
+	Query: "shenandoah national Park" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "&#34;erethizon&#34; &#34;dorsatum&#34; mappable:1" ; Times: 1
+	Query: " genus:Ursus stateprovince:(california OR florida)" ; Times: 5
+	Query: "&#34;Ochotona princeps&#34; mappable:1" ; Times: 1
+	Query: "&#34;erethizon dorsatum&#34; mappable:1" ; Times: 6
+	Query: "university of massachusetts" ; Times: 1
+	Query: "Elephas" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "Didelphis &#34;didelphis virginiana&#34; mappable:1" ; Times: 2
+	Query: "Didelphis &#34;Virginia opossum&#34;" ; Times: 1
+	Query: "virginia opossum mappable:1" ; Times: 2
+	Query: "class:Mammalia coordinateuncertaintyinmeters&lt;250 stateprovince:Tennessee" ; Times: 1
+	Query: "genus:Ursus stateprovince:(california OR florida)" ; Times: 44
+	Query: "order:Rodentia stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: " mustela (nivalis OR erminea)" ; Times: 10
+	Query: " (mustela nivalis OR mustela erminea)" ; Times: 1
+	Query: "&#34;porcupine&#34; &#34;Erethizon&#34; mappable:1" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "Didelphis &#34; Didelphis virginiana&#34; mappable:1" ; Times: 2
+	Query: "&#34;Mephitis mephitis&#34; mappable:1" ; Times: 1
+	Query: "blackbird" ; Times: 1
+	Query: "Neovison vison 1" ; Times: 5
+	Query: "class:Mammalia coordinateuncertaintyinmeters&lt;2500 stateprovince:Tennessee" ; Times: 1
+	Query: "Virginia Opossum &#34;Didelphis virginiana&#34; mappable:1" ; Times: 2
+	Query: "order:rodentia class:Mammalia coordinateuncertaintyinmeters&lt;5000 stateprovince:(Tennessee OR Kentucky)" ; Times: 2
+	Query: "didelphis virginiana" ; Times: 4
+	Query: "didelphis virginiana mappable:1" ; Times: 9
+	Query: "&#34;Erethizon dorsatum&#34;" ; Times: 1
+	Query: "didelphis &#34;virginiana&#34; mappable:1" ; Times: 1
+	Query: "scientificname:&#34;omomyidae incertae sedis&#34; OR scientificname:&#34;teilhardina sp.&#34; OR scientificname:&#34;nasalis larvatus&#34; OR scientificname:&#34;presbytis frontata&#34; OR scientificname:&#34;papio anubis&#34; OR scientificname:&#34;macaca fascicularis&#34; OR scientificname:&#34;alouatta palliata&#34; OR scientificname:&#34;cantius abditus&#34; OR scientificname:&#34;pygathrix nemaeus&#34; OR scientificname:&#34;adapis parisiensis&#34; OR scientificname:&#34;miopithecus ogouensis&#34; OR scientificname:&#34;cercopithecus albogularis&#34; OR scientificname:&#34;papio hamadryas&#34; OR scientificname:&#34;papio cynocephalus&#34; OR scientificname:&#34;chlorocebus pygerythrus&#34; OR scientificname:&#34;cercopithecus diana&#34; OR scientificname:&#34;cercopithecus sp.&#34; OR scientificname:&#34;apidium phiomense&#34; OR scientificname:&#34;zaltanpithecus simonsi&#34; OR scientificname:&#34;sivapithecus indicus&#34; OR scientificname:&#34;sivapithecus sp.&#34; OR scientificname:&#34;smilodectes gracilis&#34; OR scientificname:&#34;peromyscus gossypinus&#34; OR scientificname:&#34;triopticus primus&#34; OR scientificname:&#34;cebus apella&#34; OR scientificname:&#34;rooneyia viejaensis&#34; OR scientificname:&#34;paramys  delicatus&#34; OR scientificname:&#34;paramys copei&#34; OR scientificname:&#34;macrocranion junnei&#34; OR scientificname:&#34;birkamys korai&#34; OR scientificname:&#34;cf. birkamys korai&#34;" ; Times: 1
+	Query: "erethizon &#34;dorsatum&#34; mappable:1" ; Times: 1
+	Query: "mustela " ; Times: 1
+	Query: "Didelphis &#34;Didelphis virginiana&#34; mappable:1" ; Times: 1
+	Query: "WHAT ORDER mappable:1" ; Times: 1
+	Query: "erethizon dorsatum mappable:1" ; Times: 8
+	Query: "&#34;Didelphis virginiana&#34; mappable:1" ; Times: 39
+	Query: "Oklahoma" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "type:specimen specificepithet:franklinii genus:spermophilus" ; Times: 1
+	Query: "virginia opossum" ; Times: 5
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona" ; Times: 76
+	Query: "Canis latrans mappable:1" ; Times: 1
+	Query: "&#34;opossum&#34; &#34;didelphis&#34; mappable:1" ; Times: 2
+	Query: "Mus musculus 1" ; Times: 1
+	Query: "north american porcupine mappable:1" ; Times: 4
+	Query: "mustela specificepithet:(nivalis OR erminea)" ; Times: 2
+	Query: "a. Didelphis virginiana mappable:1" ; Times: 1
+	Query: "&#34;porcupine&#34; &#34;erethizon&#34; mappable:1" ; Times: 2
+	Query: "Mustela nigripes " ; Times: 2
+	Query: "order:Rodentia stateprovince:&#34;California&#34;" ; Times: 4
+	Query: "georgia southern" ; Times: 1
+	Query: "&#34;Erethizon dorsatum&#34; mappable:1" ; Times: 30
+	Query: "Myotis sodalis mappable:1" ; Times: 2
+	Query: "mammal mappable:1" ; Times: 1
+	Query: "&#34;Virginia opossum&#34; mappable:1" ; Times: 1
+	Query: "genus:&#34;tarsius&#34; OR genus:&#34;varecia&#34; OR genus:&#34;eulemur&#34; OR genus:&#34;galago&#34; OR genus:&#34;parapithecus&#34; OR genus:&#34;megaladapis&#34; OR genus:&#34;ateles&#34; OR genus:&#34;sciurus&#34; OR genus:&#34;daubentonia&#34; OR genus:&#34;nycticebus&#34; OR genus:&#34;tupaia&#34; OR genus:&#34;teilhardina&#34; OR genus:&#34;hapalemur&#34; OR genus:&#34;arctocebus&#34; OR genus:&#34;indri&#34; OR genus:&#34;mirza&#34; OR genus:&#34;phaner&#34; OR genus:&#34;alouatta&#34; OR genus:&#34;aotus&#34; OR genus:&#34;brachyteles&#34; OR genus:&#34;cacajao&#34;" ; Times: 1
+	Query: "dorsatum mappable:1" ; Times: 1
+	Query: "mustela nigripes" ; Times: 84
+	Query: "mustela" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "Didelphis virginiana mappable:1" ; Times: 6
+	Query: "&#34;opossum&#34; mappable:1" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "scientificname:&#34;tarsius spectrum&#34; OR scientificname:&#34;tarsius syricta&#34; OR scientificname:&#34;varecia variegata&#34; OR scientificname:&#34;eulemur fulvus&#34; OR scientificname:&#34;galago alleni&#34; OR scientificname:&#34;parapithecus grangeri&#34; OR scientificname:&#34;megaladapis madagascariensis&#34; OR scientificname:&#34;ateles geoffroyi&#34; OR scientificname:&#34;sciurus carolinensis&#34; OR scientificname:&#34;daubentonia madagascariensis&#34; OR scientificname:&#34;nycticebus coucang&#34; OR scientificname:&#34;tupaia glis&#34; OR scientificname:&#34;tupaia minor&#34; OR scientificname:&#34;tupaia montana&#34; OR scientificname:&#34;tupaia sp. (cf. glis)&#34; OR scientificname:&#34;teilhardina belgica&#34; OR scientificname:&#34;teilhardina brandti&#34; OR scientificname:&#34;hapalemur griseus&#34; OR scientificname:&#34;arctocebus calabarensis&#34; OR scientificname:&#34;indri indri&#34; OR scientificname:&#34;mirza coquereli&#34; OR scientificname:&#34;phaner furcifer&#34; OR scientificname:&#34;alouatta palliata&#34; OR scientificname:&#34;alouatta seniculus&#34; OR scientificname:&#34;aotus azarae&#34; OR scientificname:&#34;aotus nigriceps&#34; OR scientificname:&#34;ateles belzebuth&#34; OR scientificname:&#34;ateles paniscus&#34; OR scientificname:&#34;brachyteles arachnoides&#34; OR scientificname:&#34;cacajao calvus&#34; OR scientificname:&#34;cacajao melanocephalus&#34;" ; Times: 1
+	Query: "pika" ; Times: 2
+	Query: "Marmota marmota 1" ; Times: 6
+	Query: "(Fish) institutioncode:CHAS" ; Times: 1
+	Query: "type:specimen specificepithet:franklinii genus:spermophilus month &gt;= 1 month &lt;= 5" ; Times: 1
+	Query: "specificepithet:frenata genus:mustela institutioncode:CHAS" ; Times: 1
+	Query: "north american porcupine" ; Times: 1
+	Query: "virginiana mappable:1" ; Times: 1
+	Query: "&#34;didelphis&#34; &#34;virginia opossum&#34; mappable:1" ; Times: 1
+	Query: "(Erethizon dorsatum) mappable:1" ; Times: 1
+	Query: " specificepithet:(princeps OR collaris) genus:ochotona" ; Times: 30
+	Query: "Erethizon &#34;North American Porcupine&#34;" ; Times: 1
+	Query: "Didelphis &#34;virginia opossum&#34;" ; Times: 1
+	Query: "Virginia opossum mappable:1" ; Times: 2
+	Query: "floridanus" ; Times: 3
+	Query: "&#34;virginia opossum&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:borealis genus:lasiurus stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "specificepithet:palustris genus:Sorex" ; Times: 1
+	Query: "gbifdatasetid:4837d6b0-19fe-4fe4-9ddf-b62dd17a060e" ; Times: 5
+	Query: "Erethizon &#34;Erethizon dorsatum&#34; mappable:1" ; Times: 2
+	Query: "Myotis lucifugus mappable:1" ; Times: 1
+	Query: "Rattus norvegicus 1" ; Times: 2
+	Query: "order:Lagomorpha stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Erethizon dorsatum mappable:1" ; Times: 4
+	Query: "didelphis mappable:1" ; Times: 2
+	Query: "mustelidae" ; Times: 1
+	Query: "&#34;didelphis&#34; &#34;virginiana&#34; mappable:1" ; Times: 3
+	Query: "&#34;didelphis Virginiana&#34; mappable:1" ; Times: 1
+	Query: "scientificname:&#34;smilodon fatalis&#34; OR scientificname:&#34;edestus heinrichi&#34; OR scientificname:&#34;leptadapis leenhardti&#34; OR scientificname:&#34;megalonyx jeffersoni&#34; OR scientificname:&#34;ursus americanus&#34; OR scientificname:&#34;genus-new species-new&#34; OR scientificname:&#34;?biretia indet.&#34; OR scientificname:&#34;?dilambdogale indet.&#34; OR scientificname:&#34;saharagalago misrensis&#34; OR scientificname:&#34;metoldobotes (sp?)&#34; OR scientificname:&#34;wadilemur elegans&#34; OR scientificname:&#34;aframonius dieides&#34; OR scientificname:&#34;plesiopithecus teras&#34; OR scientificname:&#34;ateles marginatus&#34; OR scientificname:&#34;ateles belzebuth&#34; OR scientificname:&#34;procolobus badius&#34; OR scientificname:&#34;?masrasector nananubis&#34; OR scientificname:&#34;afradapis species-new&#34; OR scientificname:&#34;herodotius species-new&#34; OR scientificname:&#34;omomyidae incertae sedis&#34; OR scientificname:&#34;teilhardina sp.&#34;" ; Times: 1
+	Query: "Mustela nigripes mappable:1" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 2
+	Query: "mustela frenata" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "Didelphis Virginiana mappable:1" ; Times: 1
+	Query: "Procyon lotor 1" ; Times: 5
+	Query: "Rattus rattus 1" ; Times: 4
+	Query: "&#34;didelphis&#34; &#34;opossum&#34; mappable:1" ; Times: 3
+	Query: "specificepithet:frenata genus:mustela" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 153 (out of 811 download events in this period)
+Total number of records downloaded: 5237
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 50
+	Country: Unknown ; Times: 1
+	Country: Netherlands ; Times: 99
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 5
+	Date: 2016-09-12 ; Times: 6
+	Date: 2016-09-11 ; Times: 7
+	Date: 2016-09-10 ; Times: 2
+	Date: 2016-09-17 ; Times: 1
+	Date: 2016-09-16 ; Times: 3
+	Date: 2016-09-15 ; Times: 8
+	Date: 2016-09-14 ; Times: 3
+	Date: 2016-09-30 ; Times: 5
+	Date: 2016-09-19 ; Times: 3
+	Date: 2016-09-18 ; Times: 4
+	Date: 2016-09-20 ; Times: 1
+	Date: 2016-09-21 ; Times: 3
+	Date: 2016-09-27 ; Times: 10
+	Date: 2016-09-02 ; Times: 15
+	Date: 2016-09-25 ; Times: 2
+	Date: 2016-09-28 ; Times: 3
+	Date: 2016-09-29 ; Times: 2
+	Date: 2016-09-08 ; Times: 4
+	Date: 2016-09-09 ; Times: 2
+	Date: 2016-09-22 ; Times: 4
+	Date: 2016-09-23 ; Times: 9
+	Date: 2016-09-06 ; Times: 9
+	Date: 2016-09-07 ; Times: 5
+	Date: 2016-09-04 ; Times: 1
+	Date: 2016-09-01 ; Times: 14
+	Date: 2016-09-24 ; Times: 1
+	Date: 2016-09-03 ; Times: 14
+	Date: 2016-09-05 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen specificepithet:franklinii genus:spermophilus month &gt;= 1 month &lt;= 5" ; Times: 1
+	Query: "shenandoah national Park" ; Times: 1
+	Query: "Conepatus leuconotus" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "Myotis keenii" ; Times: 1
+	Query: "order:Lagomorpha stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "tamias amoenus" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;California&#34;" ; Times: 12
+	Query: "order:Lagomorpha stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "&#34;Mephitis mephitis&#34; mappable:1" ; Times: 2
+	Query: "order:Rodentia stateprovince:&#34;Utah&#34;" ; Times: 4
+	Query: "genus:ochotona" ; Times: 2
+	Query: "mustela frenata" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Idaho&#34;" ; Times: 4
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 120
+
+
+End of report.
