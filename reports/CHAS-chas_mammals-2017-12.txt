@@ -1,0 +1,297 @@
+Report for Institution Code CHAS, Resource chas_mammals
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 254
+Number of records retrieved in searches: 3872
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 26
+	Country: France ; Times: 1
+	Country: United States ; Times: 213
+	Country: China ; Times: 2
+	Country: Gambia ; Times: 1
+	Country: Argentina ; Times: 3
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-30 ; Times: 3
+	Date: 2017-12-31 ; Times: 1
+	Date: 2017-12-14 ; Times: 15
+	Date: 2017-12-15 ; Times: 22
+	Date: 2017-12-12 ; Times: 4
+	Date: 2017-12-13 ; Times: 5
+	Date: 2017-12-10 ; Times: 2
+	Date: 2017-12-11 ; Times: 4
+	Date: 2017-12-18 ; Times: 3
+	Date: 2017-12-19 ; Times: 10
+	Date: 2017-12-29 ; Times: 2
+	Date: 2017-12-27 ; Times: 12
+	Date: 2017-12-26 ; Times: 30
+	Date: 2017-12-24 ; Times: 2
+	Date: 2017-12-23 ; Times: 1
+	Date: 2017-12-22 ; Times: 2
+	Date: 2017-12-21 ; Times: 6
+	Date: 2017-12-20 ; Times: 8
+	Date: 2017-12-05 ; Times: 26
+	Date: 2017-12-04 ; Times: 35
+	Date: 2017-12-07 ; Times: 13
+	Date: 2017-12-06 ; Times: 10
+	Date: 2017-12-01 ; Times: 12
+	Date: 2017-12-03 ; Times: 12
+	Date: 2017-12-02 ; Times: 5
+	Date: 2017-12-09 ; Times: 4
+	Date: 2017-12-08 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Sylvilagus audubonii mappable:1" ; Times: 2
+	Query: "genus:ictonyx country:&#34;kenya&#34;" ; Times: 1
+	Query: "Zapus princeps mappable:1" ; Times: 1
+	Query: "Microtus chrotorrhinus" ; Times: 3
+	Query: "specificepithet:austroriparius genus:Myotis" ; Times: 3
+	Query: "ermine" ; Times: 1
+	Query: "Canis lupus vntype:specimen continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 3
+	Query: "badger" ; Times: 3
+	Query: "vntype:specimen specificepithet:floridanus genus:Podomys OR Peromyscus county:&#34;Palm&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Tamiasciurus douglasii mappable:1" ; Times: 1
+	Query: "muskrat" ; Times: 1
+	Query: "Lepus americanus mappable:1" ; Times: 1
+	Query: "Least Weasel" ; Times: 1
+	Query: "Canadian Lynx" ; Times: 1
+	Query: "specificepithet:grisescens genus:Myotis" ; Times: 1
+	Query: "cougar" ; Times: 2
+	Query: "Sylvilagus nuttallii mappable:1" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "Ursus americanus" ; Times: 2
+	Query: "genus:peromyscus county:&#34;marquette&#34; year &gt;= 0 year &lt;= 2010 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Perognathus fasciatus mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:floridanus genus:Podomys OR Peromyscus county:&#34;Palm&#34; stateprovince:&#34;Florida&#34; preparations:Skull OR skeleton basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "Louis" ; Times: 1
+	Query: "Mexican Wolf" ; Times: 1
+	Query: "microtus chrotorrhinus mappable:1" ; Times: 1
+	Query: "John vntype:specimen specificepithet:floridanus genus:Podomys OR Peromyscus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "peromyscus leucopus mappable:1" ; Times: 1
+	Query: "specificepithet:brevicauda genus:blarina county:&#34;marquette&#34; year &lt;= 2009" ; Times: 1
+	Query: "Perognathus flavescens mappable:1" ; Times: 2
+	Query: "lontra canadensis" ; Times: 1
+	Query: "Lemmus trimucronatus mappable:1" ; Times: 1
+	Query: "white-tailed deer" ; Times: 2
+	Query: "Microtus longicaudus" ; Times: 3
+	Query: "Lepus townsendii mappable:1" ; Times: 1
+	Query: "Ermine" ; Times: 1
+	Query: "Elephant tusk" ; Times: 2
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "genus:sigmodon stateprovince:&#34;tennessee&#34;" ; Times: 2
+	Query: "class:mammalia county:&#34;Cook&#34; stateprovince:&#34;Illinois&#34;" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "genus:peromyscus county:&#34;marquette&#34; year &gt;= 0 year &lt;= 2009 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Spermophilus lateralis mappable:1" ; Times: 2
+	Query: "specificepithet:gapperi genus:myodes county:&#34;marquette&#34; year &lt;= 2009" ; Times: 1
+	Query: "specificepithet:floridanus genus:Podomys OR Peromyscus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Tamiasciurus hudsonicus mappable:1" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "sciurus aberti" ; Times: 1
+	Query: "sorex cinereus" ; Times: 1
+	Query: "rattlesnake" ; Times: 1
+	Query: "wolverine" ; Times: 1
+	Query: "blarina brevicauda" ; Times: 1
+	Query: "ochotonidae skull" ; Times: 1
+	Query: "specificepithet:montanus genus:microtus" ; Times: 1
+	Query: "Illinois Natural History Survey" ; Times: 1
+	Query: "specificepithet:palustris genus:Oryzomys stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "mink" ; Times: 1
+	Query: "Black bear mammal" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "ochotonidae" ; Times: 1
+	Query: "Sciurus niger mappable:1" ; Times: 1
+	Query: "white tail deer" ; Times: 4
+	Query: "Raccoon" ; Times: 1
+	Query: "Red wolf" ; Times: 1
+	Query: "mammal cook county" ; Times: 1
+	Query: "Ursus arctos" ; Times: 5
+	Query: "pika" ; Times: 2
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "microdipodops" ; Times: 1
+	Query: "Odocoileus virginianus mappable:1" ; Times: 1
+	Query: "black bear" ; Times: 10
+	Query: "genus:sorex county:&#34;marquette&#34; year &lt;= 2009" ; Times: 1
+	Query: "stateprovince:&#34;alberta&#34; country:&#34;canada&#34;" ; Times: 1
+	Query: "American Black Bear" ; Times: 1
+	Query: "genus:ictonyx country:&#34;kenya&#34; institutioncode:CHAS" ; Times: 1
+	Query: "Sylvilagus floridanus mappable:1" ; Times: 1
+	Query: "vole" ; Times: 1
+	Query: "star-nosed mole" ; Times: 4
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "Spermophilus richardsonii mappable:1" ; Times: 1
+	Query: "k rat" ; Times: 1
+	Query: "gopher" ; Times: 1
+	Query: "Microtus pinetorum" ; Times: 3
+	Query: "Opossum" ; Times: 1
+	Query: "white tailed deer" ; Times: 2
+	Query: "class:Mammalia county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1769 year &lt;= 1875" ; Times: 1
+	Query: "river otter" ; Times: 5
+	Query: "Zapus" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "Perognathus" ; Times: 1
+	Query: "genus:myodes county:&#34;marquette&#34; year &lt;= 2009" ; Times: 1
+	Query: "Zapus hudsonius mappable:1" ; Times: 1
+	Query: "specificepithet:penicillatus class:Mammalia county:&#34;Riverside&#34;" ; Times: 2
+	Query: "White Tailed Deer" ; Times: 1
+	Query: "genus:blarina county:&#34;marquette&#34; year &lt;= 2009" ; Times: 1
+	Query: "microtus montanus" ; Times: 1
+	Query: "microdipodops megacephalus" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Minnesota&#34;" ; Times: 2
+	Query: "timber wolf" ; Times: 3
+	Query: "ochotona princeps" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "lasiurus seminolus vntype:specimen stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "specificepithet:penicillatus genus:Chaetodipus county:&#34;Riverside&#34; year &gt;= 1800 year &lt;= 1950" ; Times: 1
+	Query: "Brown bat" ; Times: 1
+	Query: "least weasel" ; Times: 1
+	Query: "sylvilagus audubonii" ; Times: 1
+	Query: "Napaeozapus insignis mappable:1" ; Times: 1
+	Query: "ursus arctos" ; Times: 6
+	Query: "catalognumber:642" ; Times: 1
+	Query: "Spermophilus tridecemlineatus mappable:1" ; Times: 2
+	Query: "marmota flaviventris" ; Times: 1
+	Query: "lynx" ; Times: 1
+	Query: "Bobcat" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "specificepithet:striatus genus:tamias county:&#34;marquette&#34; year &lt;= 2009" ; Times: 1
+	Query: "gray wolf" ; Times: 1
+	Query: "LASIURUS SEMINOLUS" ; Times: 1
+	Query: "Sciurus aberti" ; Times: 2
+	Query: "Sciurus carolinensis mappable:1" ; Times: 1
+	Query: "Canadian lynx" ; Times: 1
+	Query: "chipmunk" ; Times: 1
+	Query: "Mustela nivalis mappable:1" ; Times: 1
+	Query: "Gray Wolf" ; Times: 1
+	Query: "Microtus pinetorum mappable:1" ; Times: 1
+	Query: "Microtus montanus" ; Times: 1
+	Query: "gbifdatasetid:4837d6b0-19fe-4fe4-9ddf-b62dd17a060e" ; Times: 6
+	Query: "Tamias minimus" ; Times: 1
+	Query: "Squirrel" ; Times: 2
+	Query: "Mustela erminea mappable:1" ; Times: 1
+	Query: "hasmedia:1" ; Times: 3
+	Query: "genus:geomys county:&#34;aransas&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:penicillatus genus:Chaetodipus county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Lepus Townsendii" ; Times: 1
+	Query: "stateprovince:&#34;nebraska&#34;" ; Times: 1
+	Query: "sorex vagrans" ; Times: 1
+	Query: "Spermophilus franklinii mappable:1" ; Times: 1
+	Query: "T. Page" ; Times: 1
+	Query: "lutra canadensis" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus country:&#34;United States&#34;" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "gray squirrel" ; Times: 4
+	Query: "A-473" ; Times: 2
+	Query: "Mustela nigripes mappable:1" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 7
+	Query: "ursus americanus" ; Times: 1
+	Query: "Black bear" ; Times: 1
+	Query: "Page" ; Times: 1
+	Query: "sorex fumeus" ; Times: 3
+	Query: "rock hyrax" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 4
+	Query: "Deer" ; Times: 1
+	Query: "Mustela frenata mappable:1" ; Times: 1
+	Query: "Black Bear" ; Times: 5
+	Query: "canis rufus" ; Times: 1
+	Query: "specificepithet:cinereus genus:sorex county:&#34;marquette&#34; year &lt;= 2009" ; Times: 1
+	Query: "class:Mammalia county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1820 year &lt;= 1875" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;clear creek&#34; stateprovince:&#34;colorado&#34; mappable:1" ; Times: 1
+	Query: "Zapus princeps" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 55 (out of 674 download events in this period)
+Total number of records downloaded: 1789
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 50
+	Country: Unknown ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-27 ; Times: 10
+	Date: 2017-12-26 ; Times: 21
+	Date: 2017-12-20 ; Times: 2
+	Date: 2017-12-04 ; Times: 1
+	Date: 2017-12-14 ; Times: 7
+	Date: 2017-12-15 ; Times: 3
+	Date: 2017-12-01 ; Times: 1
+	Date: 2017-12-11 ; Times: 2
+	Date: 2017-12-18 ; Times: 2
+	Date: 2017-12-19 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Sylvilagus audubonii mappable:1" ; Times: 2
+	Query: "Sciurus aberti" ; Times: 1
+	Query: "Sciurus carolinensis mappable:1" ; Times: 1
+	Query: "Zapus princeps mappable:1" ; Times: 1
+	Query: "Microtus chrotorrhinus" ; Times: 1
+	Query: "specificepithet:austroriparius genus:Myotis" ; Times: 1
+	Query: "Lepus townsendii mappable:1" ; Times: 1
+	Query: "Napaeozapus insignis mappable:1" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+	Query: "Microtus pinetorum mappable:1" ; Times: 1
+	Query: "Tamiasciurus hudsonicus mappable:1" ; Times: 1
+	Query: "Spermophilus richardsonii mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:floridanus genus:Podomys OR Peromyscus county:&#34;Palm&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "Microtus xanthognathus" ; Times: 1
+	Query: "Mustela erminea mappable:1" ; Times: 1
+	Query: "sorex cinereus" ; Times: 1
+	Query: "specificepithet:grisescens genus:Myotis" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 1
+	Query: "Sylvilagus nuttallii mappable:1" ; Times: 1
+	Query: "chipmunk" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "specificepithet:palustris genus:Oryzomys stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Tamiasciurus douglasii mappable:1" ; Times: 1
+	Query: "Spermophilus lateralis mappable:1" ; Times: 1
+	Query: "sorex vagrans" ; Times: 1
+	Query: "Spermophilus franklinii mappable:1" ; Times: 1
+	Query: "microtus xanthognathus" ; Times: 1
+	Query: "Mustela nivalis mappable:1" ; Times: 2
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Sciurus niger mappable:1" ; Times: 1
+	Query: "microtus chrotorrhinus mappable:1" ; Times: 1
+	Query: "Mustela nigripes mappable:1" ; Times: 1
+	Query: "Lepus americanus mappable:1" ; Times: 1
+	Query: "brown bear" ; Times: 1
+	Query: "peromyscus leucopus mappable:1" ; Times: 1
+	Query: "Spermophilus columbianus mappable:1" ; Times: 1
+	Query: "Perognathus flavescens mappable:1" ; Times: 1
+	Query: "Lemmus trimucronatus mappable:1" ; Times: 1
+	Query: "sorex fumeus" ; Times: 1
+	Query: "peromyscus maniculatus mappable:1" ; Times: 1
+	Query: "Zapus hudsonius mappable:1" ; Times: 1
+	Query: "sylvilagus audubonii" ; Times: 1
+	Query: "Microtus longicaudus" ; Times: 1
+	Query: "Mustela frenata mappable:1" ; Times: 1
+	Query: "Martes americana mappable:1" ; Times: 1
+	Query: "Spermophilus tridecemlineatus mappable:1" ; Times: 1
+	Query: "Odocoileus virginianus mappable:1" ; Times: 1
+	Query: "Perognathus fasciatus mappable:1" ; Times: 1
+	Query: "Sylvilagus floridanus mappable:1" ; Times: 1
+	Query: "microtus montanus" ; Times: 1
+
+
+End of report.
