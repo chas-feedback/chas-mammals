@@ -1,0 +1,188 @@
+Report for Institution Code CHAS, Resource chas_mammals
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 140
+Number of records retrieved in searches: 1320
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 5
+	Country: Italy ; Times: 9
+	Country: Mexico ; Times: 13
+	Country: Unknown ; Times: 4
+	Country: India ; Times: 1
+	Country: United States ; Times: 100
+	Country: China ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Germany ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 2
+	Date: 2018-05-29 ; Times: 1
+	Date: 2018-05-20 ; Times: 1
+	Date: 2018-05-21 ; Times: 7
+	Date: 2018-05-22 ; Times: 8
+	Date: 2018-05-23 ; Times: 2
+	Date: 2018-05-24 ; Times: 5
+	Date: 2018-05-26 ; Times: 2
+	Date: 2018-05-27 ; Times: 1
+	Date: 2018-05-06 ; Times: 3
+	Date: 2018-05-07 ; Times: 10
+	Date: 2018-05-04 ; Times: 20
+	Date: 2018-05-02 ; Times: 9
+	Date: 2018-05-03 ; Times: 6
+	Date: 2018-05-01 ; Times: 4
+	Date: 2018-05-08 ; Times: 8
+	Date: 2018-05-09 ; Times: 3
+	Date: 2018-05-31 ; Times: 2
+	Date: 2018-05-30 ; Times: 2
+	Date: 2018-05-15 ; Times: 4
+	Date: 2018-05-14 ; Times: 4
+	Date: 2018-05-17 ; Times: 8
+	Date: 2018-05-16 ; Times: 7
+	Date: 2018-05-11 ; Times: 4
+	Date: 2018-05-10 ; Times: 5
+	Date: 2018-05-12 ; Times: 1
+	Date: 2018-05-19 ; Times: 5
+	Date: 2018-05-18 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "taxonomy" ; Times: 1
+	Query: "salt lake city" ; Times: 1
+	Query: "specificepithet:pinetis genus:Geomys stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "distance(location,geopoint(48.485831828,-95.0056130685))&lt;51608" ; Times: 1
+	Query: "vntype:specimen specificepithet:frenata genus:mustela haslength:1" ; Times: 1
+	Query: "specificepithet:vison genus:Neovison mappable:1" ; Times: 2
+	Query: "armadillo hasmedia:1" ; Times: 6
+	Query: "specificepithet:carolinensis genus:Sciurus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "specificepithet:leucopus genus:peromyscus year&gt;=1950 year&lt;=2018" ; Times: 1
+	Query: "Sylvilagus aquaticus" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Canis latrans" ; Times: 2
+	Query: "distance(location,geopoint(44.7957496956751,-91.7467886332316))&lt;28569" ; Times: 1
+	Query: "specificepithet:velox genus:vulpes year &gt;= 1850 year &lt;= 1859" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1930 year &lt;= 1939 institutioncode:CHAS" ; Times: 1
+	Query: "squirrel collections" ; Times: 2
+	Query: "specificepithet:norvegicus genus:Rattus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "flamingo" ; Times: 1
+	Query: "distance(location,geopoint(38.65875276895,-91.2511227055))&lt;55931" ; Times: 2
+	Query: "little brown bat" ; Times: 1
+	Query: "howelli" ; Times: 1
+	Query: "catalognumber:1852" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "specificepithet:concolor genus:puma basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 2010 year &lt;= 2018" ; Times: 1
+	Query: "minnesota v" ; Times: 1
+	Query: "Perognathus longimembris" ; Times: 1
+	Query: "distance(location,geopoint(40.32824132246,-90.012530480135))&lt;15087" ; Times: 1
+	Query: "Dogs" ; Times: 1
+	Query: "Tamiasciurus douglasii" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "county:&#34;Pierce County&#34; stateprovince:&#34;Washington&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "class:Mammalia hastypestatus:1" ; Times: 1
+	Query: "distance(location,geopoint(37.2278846305001,-89.1481192859999))&lt;20185" ; Times: 1
+	Query: "tridecemlineatus" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "neotoma macrotis" ; Times: 1
+	Query: "fossil" ; Times: 1
+	Query: "stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus" ; Times: 1
+	Query: "specificepithet:vison genus:Neovison mappable:1 year&gt;=2000" ; Times: 1
+	Query: "Brazilian free-tailed bat" ; Times: 1
+	Query: "distance(location,geopoint(39.152078820787,-93.5543637292319))&lt;66104" ; Times: 3
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1910 year &lt;= 1919" ; Times: 1
+	Query: "big brown bat" ; Times: 1
+	Query: "pipistrellus subflavus" ; Times: 3
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "distance(location,geopoint(43.8543634933962,-89.6340951347761))&lt;15090" ; Times: 2
+	Query: "genus:puma" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "Macroscelididae" ; Times: 1
+	Query: "1348" ; Times: 2
+	Query: "specificepithet:frenata genus:mustela haslength:1" ; Times: 2
+	Query: "distance(location,geopoint(38.577664207733,-91.2675336119972))&lt;64555" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1960 year &lt;= 1969 institutioncode:CHAS" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "distance(location,geopoint(39.881129919,-90.5451142735))&lt;6477" ; Times: 2
+	Query: "distance(location,geopoint(41.008117971147,-87.5390087322894))&lt;14523" ; Times: 1
+	Query: "Procyon lotor" ; Times: 4
+	Query: "distance(location,geopoint(45.4726993784101,-93.738240342895))&lt;25496" ; Times: 1
+	Query: "Bassariscus" ; Times: 2
+	Query: "sylvilagus nuttallii" ; Times: 1
+	Query: "Elephant elephant" ; Times: 1
+	Query: "vntype:specimen specificepithet:frenata genus:Mustela lengthtype:total length" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1920 year &lt;= 1929" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;yuma&#34; stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias mappable:1 year&gt;=2000" ; Times: 1
+	Query: "neotoma mexicana" ; Times: 4
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1980 year &lt;= 1989 institutioncode:CHAS" ; Times: 1
+	Query: "(Perognathus longimembris )" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Marquette&#34; stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "north american porcupine" ; Times: 2
+	Query: "dipodomys deserti" ; Times: 2
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "distance(location,geopoint(40.3259339471276,-90.0988653032703))&lt;18259" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "distance(location,geopoint(39.31619728166,-93.5515952485077))&lt;64020" ; Times: 3
+	Query: "Puma concolor" ; Times: 3
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1920 year &lt;= 1929 institutioncode:CHAS" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes year &gt;= 1930 year &lt;= 1939" ; Times: 1
+	Query: "Sylvilagus nuttallii" ; Times: 1
+	Query: "specificepithet:concolor genus:puma" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1930 year &lt;= 1939" ; Times: 1
+	Query: "distance(location,geopoint(39.2341380512235,-93.5623870643903))&lt;65495" ; Times: 3
+	Query: "free-tailed bat vntype:specimen" ; Times: 3
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "lepus californicus" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "haslifestage:1 hassex:1 haslength:1 hasmedia:1" ; Times: 1
+	Query: "lynx lynx" ; Times: 1
+	Query: "Geomys pinetis" ; Times: 3
+	Query: "specificepithet:latrans genus:canis" ; Times: 1
+	Query: "eastern red bat" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "Deer mouse" ; Times: 1
+	Query: "Lutra lutra" ; Times: 2
+	Query: "distance(location,geopoint(41.877340882143,-90.2280541665))&lt;24154" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1178 download events in this period)
+Total number of records downloaded: 581
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Canada ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-14 ; Times: 1
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-07 ; Times: 1
+	Date: 2018-05-18 ; Times: 1
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:frenata genus:mustela haslength:1" ; Times: 1
+	Query: "callitrichidae" ; Times: 1
+	Query: "free-tailed bat vntype:specimen" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "neotoma macrotis" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+
+
+End of report.
