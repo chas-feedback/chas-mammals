@@ -1,0 +1,176 @@
+Report for Institution Code CHAS, Resource chas_mammals
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 154
+Number of records retrieved in searches: 1459
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Israel ; Times: 11
+	Country: New Zealand ; Times: 2
+	Country: Colombia ; Times: 10
+	Country: Mexico ; Times: 19
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 77
+	Country: Malaysia ; Times: 1
+	Country: Chile ; Times: 4
+	Country: Sri Lanka ; Times: 22
+	Country: Argentina ; Times: 2
+	Country: Russia ; Times: 2
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 4
+	Date: 2018-08-31 ; Times: 1
+	Date: 2018-08-19 ; Times: 1
+	Date: 2018-08-16 ; Times: 3
+	Date: 2018-08-09 ; Times: 10
+	Date: 2018-08-14 ; Times: 2
+	Date: 2018-08-15 ; Times: 2
+	Date: 2018-08-13 ; Times: 2
+	Date: 2018-08-10 ; Times: 6
+	Date: 2018-08-08 ; Times: 5
+	Date: 2018-08-02 ; Times: 2
+	Date: 2018-08-03 ; Times: 1
+	Date: 2018-08-17 ; Times: 2
+	Date: 2018-08-27 ; Times: 6
+	Date: 2018-08-25 ; Times: 2
+	Date: 2018-08-24 ; Times: 7
+	Date: 2018-08-23 ; Times: 7
+	Date: 2018-08-22 ; Times: 6
+	Date: 2018-08-21 ; Times: 13
+	Date: 2018-08-20 ; Times: 13
+	Date: 2018-08-05 ; Times: 1
+	Date: 2018-08-04 ; Times: 3
+	Date: 2018-08-07 ; Times: 7
+	Date: 2018-08-06 ; Times: 8
+	Date: 2018-08-01 ; Times: 4
+	Date: 2018-08-29 ; Times: 10
+	Date: 2018-08-28 ; Times: 26
+
+List of queries that retrieved data from the resource: 
+	Query: "vole" ; Times: 1
+	Query: "Museum Mammal Specimens" ; Times: 2
+	Query: "specificepithet:latrans genus:Canis institutioncode:CHAS" ; Times: 1
+	Query: "rats" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "T 1484" ; Times: 1
+	Query: "deer mouse" ; Times: 1
+	Query: "genus:Erethizon specificepithet:dorsatum" ; Times: 2
+	Query: "catalognumber:1508 institutioncode:CHAS" ; Times: 2
+	Query: "Peromyscus polionotus niveiventris" ; Times: 3
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(44.946440779477925,-83.84633282292259))&lt;467941.1417995581" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Tadarida" ; Times: 1
+	Query: "catalognumber:580 institutioncode:CHAS" ; Times: 2
+	Query: "western pipistrelle" ; Times: 1
+	Query: "Puma concolor" ; Times: 32
+	Query: "specificepithet:latrans genus:Canis stateprovince:&#34;Colorado&#34; preparations:skull" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "puma" ; Times: 1
+	Query: "country:&#34;united states&#34; haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "specificepithet:lotor genus:procyon preparations:skull" ; Times: 1
+	Query: "Ammospermophilus harrisii" ; Times: 3
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(39.889835259232534,-83.49477032292259))&lt;1045695" ; Times: 1
+	Query: "hasmedia:1" ; Times: 1
+	Query: "lepus americanus" ; Times: 1
+	Query: "rattlesnake" ; Times: 2
+	Query: "genus:Lepus  specificepithet:americanus" ; Times: 1
+	Query: "dipodomys agilis" ; Times: 1
+	Query: "V 1128" ; Times: 1
+	Query: "New mexico" ; Times: 1
+	Query: "T-1484" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 7
+	Query: "specificepithet:keenii genus:myotis stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "catalognumber:4174 institutioncode:CHAS" ; Times: 2
+	Query: "puma concolor" ; Times: 12
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;Colorado&#34; preparations:skull" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon county:&#34;Cook&#34; stateprovince:&#34;Illinois&#34; preparations:skull" ; Times: 1
+	Query: "myotis lucifugus" ; Times: 1
+	Query: "Glaucomys sabrinus vntype:specimen" ; Times: 2
+	Query: "specificepithet:latrans genus:Canis county:&#34;Denver&#34;" ; Times: 1
+	Query: "scapanus" ; Times: 1
+	Query: "V-1128" ; Times: 1
+	Query: "(glaucomys)" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "ochotona princeps" ; Times: 1
+	Query: "Mammalian" ; Times: 1
+	Query: "Glaucomys sabrinus" ; Times: 4
+	Query: "9665" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "subflavus" ; Times: 1
+	Query: "carnegie museum" ; Times: 3
+	Query: "Elephas maximus year&gt;=1960 year&lt;=2018 month&gt;=1 month&lt;=7 day&gt;=1 day&lt;=26" ; Times: 3
+	Query: "Microtus ochrogaster Nebraska" ; Times: 1
+	Query: "Puma concolor " ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis preparations:skull institutioncode:CHAS" ; Times: 1
+	Query: "specificepithet:pinetorum genus:Microtus" ; Times: 1
+	Query: "shrew" ; Times: 1
+	Query: "zapus" ; Times: 1
+	Query: "3449" ; Times: 1
+	Query: "Peromyscus polionotus phasma" ; Times: 3
+	Query: "least weasel" ; Times: 4
+	Query: "sibling" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 2
+	Query: "lasiurus cinereus" ; Times: 1
+	Query: "ursus arctos" ; Times: 2
+	Query: "glaucomys sabrinus" ; Times: 2
+	Query: "Red Fox skeleton" ; Times: 1
+	Query: "stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen locality:Santa Rosa Island" ; Times: 1
+	Query: "specificepithet:minimus genus:Tamias stateprovince:&#34;Wyoming&#34;" ; Times: 2
+	Query: "little brown bat" ; Times: 1
+	Query: "stateprovince:&#34;mexico&#34;" ; Times: 1
+	Query: "ochrogaster" ; Times: 1
+	Query: "specificepithet:polionotus genus:peromyscus (phasma)" ; Times: 2
+	Query: "cottontail" ; Times: 1
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(39.889835259232534,-83.49477032292259))&lt;467941.1417995581" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1416 download events in this period)
+Total number of records downloaded: 528
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 8
+	Country: United States ; Times: 7
+	Country: Chile ; Times: 1
+	Country: New Zealand ; Times: 2
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-27 ; Times: 1
+	Date: 2018-08-30 ; Times: 2
+	Date: 2018-08-05 ; Times: 2
+	Date: 2018-08-24 ; Times: 1
+	Date: 2018-08-09 ; Times: 2
+	Date: 2018-08-20 ; Times: 2
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-23 ; Times: 4
+	Date: 2018-08-06 ; Times: 6
+	Date: 2018-08-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Peromyscus polionotus phasma" ; Times: 2
+	Query: "crotalus" ; Times: 2
+	Query: "hassex:1 hasmass:1" ; Times: 2
+	Query: "puma concolor" ; Times: 4
+	Query: "dipodomys agilis" ; Times: 1
+	Query: "specificepithet:minimus genus:Tamias stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "Peromyscus polionotus niveiventris" ; Times: 2
+	Query: "ursus arctos" ; Times: 1
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(44.946440779477925,-83.84633282292259))&lt;467941.1417995581" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 2
+	Query: "specificepithet:keenii genus:myotis stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 1
+
+
+End of report.
