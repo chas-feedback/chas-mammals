@@ -1,0 +1,388 @@
+Report for Institution Code CHAS, Resource chas_mammals
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 422
+Number of records retrieved in searches: 4606
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 4
+	Country: Italy ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 26
+	Country: Unknown ; Times: 13
+	Country: France ; Times: 1
+	Country: United States ; Times: 359
+	Country: Germany ; Times: 4
+	Country: Peru ; Times: 2
+	Country: Argentina ; Times: 6
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-09 ; Times: 29
+	Date: 2018-11-08 ; Times: 11
+	Date: 2018-11-07 ; Times: 43
+	Date: 2018-11-06 ; Times: 36
+	Date: 2018-11-05 ; Times: 11
+	Date: 2018-11-04 ; Times: 5
+	Date: 2018-11-03 ; Times: 1
+	Date: 2018-11-02 ; Times: 9
+	Date: 2018-11-01 ; Times: 1
+	Date: 2018-11-25 ; Times: 2
+	Date: 2018-11-24 ; Times: 1
+	Date: 2018-11-27 ; Times: 19
+	Date: 2018-11-26 ; Times: 35
+	Date: 2018-11-21 ; Times: 8
+	Date: 2018-11-20 ; Times: 5
+	Date: 2018-11-23 ; Times: 15
+	Date: 2018-11-22 ; Times: 2
+	Date: 2018-11-29 ; Times: 24
+	Date: 2018-11-28 ; Times: 16
+	Date: 2018-11-18 ; Times: 1
+	Date: 2018-11-19 ; Times: 12
+	Date: 2018-11-10 ; Times: 10
+	Date: 2018-11-11 ; Times: 17
+	Date: 2018-11-12 ; Times: 49
+	Date: 2018-11-13 ; Times: 15
+	Date: 2018-11-14 ; Times: 6
+	Date: 2018-11-15 ; Times: 12
+	Date: 2018-11-16 ; Times: 7
+	Date: 2018-11-17 ; Times: 2
+	Date: 2018-11-30 ; Times: 18
+
+List of queries that retrieved data from the resource: 
+	Query: "galveston" ; Times: 1
+	Query: "genus:mustela family:mustelidae order:carnivora class:mammalia AND (erminea)" ; Times: 1
+	Query: "specificepithet:humulis genus:Reithrodontomys year&gt;=1950 year&lt;=2018" ; Times: 1
+	Query: "tamias striatus" ; Times: 3
+	Query: "genus:Erethizon specificepithet:dorsatum" ; Times: 2
+	Query: "stephensi specificepithet:CALIFORNICUS genus:MICROTUS" ; Times: 2
+	Query: "family:Vespertilionidae order:chiroptera continent:North America institutioncode:CHAS" ; Times: 1
+	Query: "taxidea taxus" ; Times: 5
+	Query: "odocoileus virginianus" ; Times: 4
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "Neotoma floridana AND (magister)" ; Times: 1
+	Query: "family:felidae continent:north america haslength:1" ; Times: 1
+	Query: "genus:Lepus  specificepithet:americanus" ; Times: 2
+	Query: "Sciurinae" ; Times: 1
+	Query: "Lepus californicus" ; Times: 1
+	Query: "specificepithet:humulis genus:Reithrodontomys" ; Times: 5
+	Query: "specificepithet:torridus genus:Onychomys stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:mustela family:mustelidae order:carnivora class:mammalia (mink OR neovision OR mustela OR vision) AND (ermine OR erminea)" ; Times: 1
+	Query: "specificepithet:crinitus genus:Peromyscus" ; Times: 1
+	Query: "specificepithet:sabrinus genus:Glaucomys" ; Times: 2
+	Query: "baileyi specificepithet:lupus genus:Canis preparations:skin AND (NOT captive NOT zoo) year &gt;= 1900 year &lt;= 1980 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ursus americanus" ; Times: 10
+	Query: "genus:Puma haslifestage:1 hassex:1 haslength:1" ; Times: 1
+	Query: "puma concolor" ; Times: 4
+	Query: "baileyi specificepithet:lupus genus:Canis preparations:skin year &gt;= 1900 year &lt;= 1980 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "grasshopper institutioncode:CHAS" ; Times: 1
+	Query: "Canis latrans" ; Times: 3
+	Query: "Chaetodipus intermedius" ; Times: 1
+	Query: "stephensi specificepithet:CALIFORNICUS genus:MICROTUS locality:del rey" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 35
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "specificepithet:intermedius genus:Chaetodipus" ; Times: 1
+	Query: "specificepithet:nuttalli genus:Ochrotomys" ; Times: 6
+	Query: "Mustela frenata" ; Times: 1
+	Query: "family:felidae" ; Times: 1
+	Query: "John Chase" ; Times: 1
+	Query: "lontra canadensis" ; Times: 11
+	Query: "Mephitis mephitis" ; Times: 5
+	Query: "71-135" ; Times: 1
+	Query: "spilogale" ; Times: 1
+	Query: "gus" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "lynx Rufus" ; Times: 1
+	Query: "Chaetodipus californicus" ; Times: 3
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 3
+	Query: "specificepithet:SUBFLAVUS order:CHIROPTERA" ; Times: 1
+	Query: "family:mustelidae order:carnivora class:Mammalia (mink OR neovision OR mustela OR vision) AND (ermine)" ; Times: 1
+	Query: "canis lupus baileyi" ; Times: 1
+	Query: "Neotoma floridana NOT (magister)" ; Times: 2
+	Query: "specificepithet:megalotis genus:Reithrodontomys" ; Times: 11
+	Query: "stateprovince:&#34;nebraska&#34;" ; Times: 2
+	Query: "specificepithet:taxus genus:Taxidea" ; Times: 2
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "Lynx Rufus" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 2
+	Query: "specificepithet:brevicauda genus:blarina" ; Times: 2
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "Neotoma floridana" ; Times: 1
+	Query: "lutra canadensis" ; Times: 2
+	Query: "genus:Puma hassex:1" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "zapus princeps" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "Flying squirrel" ; Times: 2
+	Query: "stateprovince:&#34;New Mexico&#34; continent:North America" ; Times: 1
+	Query: "baileyi specificepithet:lupus genus:Canis preparations:skin year &gt;= 1800 year &lt;= 1980 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:crinitus genus:Peromyscus" ; Times: 1
+	Query: "Neotoma albigula" ; Times: 1
+	Query: "vntype:specimen genus:Castor year &gt;= 1000 year &lt;= 2000" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 2
+	Query: "scapanus" ; Times: 3
+	Query: "baileyi specificepithet:lupus genus:Canis preparations:skin basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "scapanus latimanus" ; Times: 3
+	Query: "myotis austroriparius" ; Times: 2
+	Query: "plecotus rafinesquii" ; Times: 1
+	Query: "Glaucomys Volans" ; Times: 2
+	Query: "specificepithet:leucopus genus:Peromyscus hasmass:1" ; Times: 1
+	Query: "european red squirrel" ; Times: 2
+	Query: "tadarida brasiliensis" ; Times: 3
+	Query: "new mexico" ; Times: 1
+	Query: "mustela erminea" ; Times: 1
+	Query: "big brown bat" ; Times: 1
+	Query: "ringtail" ; Times: 1
+	Query: "family:mustelidae order:carnivora class:mammalia (mink OR neovision OR mustela OR vision) AND (NOT ermine NOT erminea)" ; Times: 1
+	Query: "mustela erminea alaska" ; Times: 1
+	Query: "procyon" ; Times: 1
+	Query: "genus:cryptotis class:mammalia" ; Times: 2
+	Query: "genus:puma" ; Times: 1
+	Query: "genus:mustela family:mustelidae order:carnivora class:mammalia (mustela OR neovision OR vision OR mink)" ; Times: 1
+	Query: "Desert Woodrat" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus hasmedia:1" ; Times: 1
+	Query: "onychomys leucogaster" ; Times: 1
+	Query: "family:felidae continent:north america" ; Times: 2
+	Query: "specificepithet:CALIFORNICUS genus:MICROTUS county:&#34;los angeles&#34;" ; Times: 3
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "specificepithet:berlandieri genus:Cryptotis" ; Times: 1
+	Query: "neotoma lepida intermedia" ; Times: 1
+	Query: "3023 institutioncode:CHAS" ; Times: 1
+	Query: "family:mustelidae order:carnivora class:mammalia (mink OR neovision OR mustela OR vision) AND (ermine OR erminea)" ; Times: 1
+	Query: "genus:mustela family:mustelidae order:carnivora class:mammalia AND (ermine)" ; Times: 1
+	Query: "genus:Peromyscus catalognumber:1791" ; Times: 1
+	Query: "bobcat" ; Times: 3
+	Query: "class:Mammalia continent:Africa" ; Times: 4
+	Query: "river otter" ; Times: 1
+	Query: "specificepithet:SUBFLAVUS order:CHIROPTERA stateprovince:&#34;TENNESSEE&#34;" ; Times: 2
+	Query: "specificepithet:floridana genus:Neotoma" ; Times: 1
+	Query: "grasshopper mouse" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes hasmedia:1" ; Times: 6
+	Query: "Procyon lotor" ; Times: 1
+	Query: "&#34;Neotoma floridana&#34; NOT (magister)" ; Times: 1
+	Query: "Chaetodipus formosus" ; Times: 1
+	Query: "mushroom" ; Times: 1
+	Query: "Arizona Pocket mouse" ; Times: 1
+	Query: "eastern gray squirrel" ; Times: 1
+	Query: "genus:Puma" ; Times: 1
+	Query: "ochotona princeps" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 3
+	Query: "onychomys torridus" ; Times: 1
+	Query: "specificepithet:torridus genus:Onychomys" ; Times: 1
+	Query: "specificepithet:latimanus genus:scapanus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:amplus genus:Perognathus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "catalognumber:1017" ; Times: 1
+	Query: "lynx rufus" ; Times: 17
+	Query: "genus:Taxidea" ; Times: 2
+	Query: "Lepus californicus californicus" ; Times: 1
+	Query: "specificepithet:intermedius genus:Chaetodipus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "catalognumber:1" ; Times: 1
+	Query: "neovison vison" ; Times: 1
+	Query: "specificepithet:albigula genus:Neotoma stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "genus:BLARINA stateprovince:&#34;TENNESSEE&#34;" ; Times: 1
+	Query: "mammalian" ; Times: 2
+	Query: "lutra" ; Times: 1
+	Query: "genus:Peromyscus catalognumber:1638" ; Times: 6
+	Query: "genus:Peromyscus class:mammalia stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Nebraska&#34;" ; Times: 2
+	Query: "specificepithet:alces genus:Alces year &gt;= 2010 year &lt;= 2018" ; Times: 2
+	Query: "felis" ; Times: 1
+	Query: "mink" ; Times: 3
+	Query: "mephitis mephitis" ; Times: 2
+	Query: "Castor Canadensis vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:mustela family:mustelidae order:carnivora class:mammalia (mink OR neovision OR mustela OR vision) AND (NOT ermine NOT erminea)" ; Times: 1
+	Query: "Microtus ochrogaster stateprovince:&#34;Nebraska&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Peromyscus class:mammalia stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "genus:Ochotona" ; Times: 6
+	Query: "Felis concolor" ; Times: 1
+	Query: "genus:Bison" ; Times: 1
+	Query: "specificepithet:broweri genus:Marmota basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "castor canadensis" ; Times: 6
+	Query: "Puma concolor" ; Times: 2
+	Query: "reithrodontomys humulis" ; Times: 1
+	Query: "gbifdatasetid:4837d6b0-19fe-4fe4-9ddf-b62dd17a060e" ; Times: 4
+	Query: "Tamias minimus" ; Times: 1
+	Query: "specificepithet:harrisii genus:Ammospermophilus" ; Times: 1
+	Query: "felidae" ; Times: 1
+	Query: "Castor Canadensis" ; Times: 5
+	Query: "catalognumber:2592" ; Times: 1
+	Query: "Oryzomys" ; Times: 1
+	Query: "STEPHENSI specificepithet:CALIFORNICUS genus:MICROTUS" ; Times: 4
+	Query: "Onychomys torridus" ; Times: 2
+	Query: "Taxidea taxus" ; Times: 6
+	Query: "Odocoileus virginianus" ; Times: 3
+	Query: "Lynx rufus" ; Times: 2
+	Query: "Ursus americanus americanus" ; Times: 2
+	Query: "north american river otter" ; Times: 1
+	Query: "lasiurus borealis" ; Times: 4
+	Query: "myotis lucifugus" ; Times: 2
+	Query: "Geomys attwateri" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:tadarida stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "lepus californicus" ; Times: 3
+	Query: "STEPHENSI specificepithet:CALIFORNICUS genus:MICROTUS institutioncode:CHAS" ; Times: 1
+	Query: "procyon lotor" ; Times: 7
+	Query: "genus:Castor" ; Times: 1
+	Query: "Sigmodon hispidus" ; Times: 1
+	Query: "puma" ; Times: 1
+	Query: "2972" ; Times: 2
+	Query: "mustela frenata" ; Times: 2
+	Query: "ursus americanus" ; Times: 5
+	Query: "Onychomys leucogaster" ; Times: 2
+	Query: "lasionycteris noctivagans" ; Times: 1
+	Query: "genus:mustela family:mustelidae order:carnivora class:mammalia AND (NOT erminea)" ; Times: 1
+	Query: "Perognathus amplus" ; Times: 1
+	Query: "Tamias" ; Times: 1
+	Query: "canis latrans" ; Times: 2
+	Query: "glaucomys sabrinus" ; Times: 1
+	Query: "canis rufus" ; Times: 14
+	Query: "stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "catalognumber:3023 institutioncode:CHAS" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 4
+	Query: "Lutra lutra" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Michigan&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 140 (out of 1719 download events in this period)
+Total number of records downloaded: 7849
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: United States ; Times: 77
+	Country: Mexico ; Times: 54
+	Country: Canada ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-09 ; Times: 10
+	Date: 2018-11-08 ; Times: 2
+	Date: 2018-11-07 ; Times: 13
+	Date: 2018-11-06 ; Times: 13
+	Date: 2018-11-05 ; Times: 5
+	Date: 2018-11-13 ; Times: 4
+	Date: 2018-11-03 ; Times: 3
+	Date: 2018-11-02 ; Times: 2
+	Date: 2018-11-16 ; Times: 1
+	Date: 2018-11-15 ; Times: 21
+	Date: 2018-11-10 ; Times: 1
+	Date: 2018-11-27 ; Times: 3
+	Date: 2018-11-26 ; Times: 15
+	Date: 2018-11-14 ; Times: 11
+	Date: 2018-11-23 ; Times: 1
+	Date: 2018-11-11 ; Times: 12
+	Date: 2018-11-12 ; Times: 15
+	Date: 2018-11-17 ; Times: 1
+	Date: 2018-11-29 ; Times: 5
+	Date: 2018-11-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Didelphis virginiana" ; Times: 1
+	Query: "family:Vespertilionidae order:chiroptera continent:North America institutioncode:CHAS" ; Times: 1
+	Query: "taxidea taxus" ; Times: 1
+	Query: "family:felidae continent:north america haslength:1" ; Times: 1
+	Query: "Sciurinae" ; Times: 2
+	Query: "Lepus californicus" ; Times: 2
+	Query: "antilocapra americana" ; Times: 1
+	Query: "specificepithet:torridus genus:Onychomys stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 3
+	Query: "genus:Procyon lotor" ; Times: 1
+	Query: "pecari tajacu" ; Times: 2
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "puma concolor" ; Times: 3
+	Query: "genus:Cryptotis mayensis" ; Times: 5
+	Query: "Canis latrans" ; Times: 1
+	Query: "Chaetodipus intermedius" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "lontra canadensis" ; Times: 3
+	Query: "Mephitis mephitis" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "specificepithet: mayensis genus:Cryptotis" ; Times: 1
+	Query: "canis lupus baileyi" ; Times: 1
+	Query: "vulpes velox" ; Times: 2
+	Query: "genus:Eptesicus fuscus" ; Times: 1
+	Query: "mammalia" ; Times: 1
+	Query: "baculum vntype:specimen order:Carnivora" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "puma" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "lepus californicus" ; Times: 1
+	Query: "genus:Puma hassex:1" ; Times: 1
+	Query: "genus:Urocyon cinereoargenteus" ; Times: 1
+	Query: "specificepithet:mayensis genus:Cryptotis" ; Times: 2
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "Chaetodipus californicus" ; Times: 2
+	Query: "genus:Peromyscus leucopus" ; Times: 1
+	Query: "Nine-banded Armadillo" ; Times: 2
+	Query: "tadarida brasiliensis" ; Times: 2
+	Query: "specificepithet:hispidus genus:Sigmodon" ; Times: 1
+	Query: "big brown bat" ; Times: 1
+	Query: "genus:Mustela frenata" ; Times: 1
+	Query: "genus:puma" ; Times: 1
+	Query: "specificepithet:tajacu genus:Pecari" ; Times: 1
+	Query: "procyon" ; Times: 3
+	Query: "genus:Odocoileus virginianus" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "genus:Sylvilagus floridanus" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "genus:Sigmodon hispidus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "Procyon lotor" ; Times: 2
+	Query: "&#34;Neotoma floridana&#34; NOT (magister)" ; Times: 1
+	Query: "genus:Puma concolor" ; Times: 2
+	Query: "Chaetodipus formosus" ; Times: 1
+	Query: "genus:Pecari tajacu" ; Times: 1
+	Query: "genus:Puma" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 2
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "specificepithet:amplus genus:Perognathus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 2
+	Query: "lynx rufus" ; Times: 2
+	Query: "Lepus californicus californicus" ; Times: 1
+	Query: "specificepithet:intermedius genus:Chaetodipus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Vulpes velox" ; Times: 2
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "genus:Tadarida brasiliensis" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus" ; Times: 1
+	Query: "genus:Canis latrans" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 2
+	Query: "specificepithet:brasiliensis genus:Tadarida" ; Times: 1
+	Query: "Castor Canadensis" ; Times: 1
+	Query: "reithrodontomys humulis" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "specificepithet:harrisii genus:Ammospermophilus" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 2
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Taxidea taxus" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Lynx rufus" ; Times: 2
+	Query: "Ursus americanus americanus" ; Times: 1
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus" ; Times: 2
+	Query: "specificepithet:floridanus genus:Sylvilagus" ; Times: 1
+	Query: "Geomys attwateri" ; Times: 1
+	Query: "lutra canadensis" ; Times: 2
+	Query: "procyon lotor" ; Times: 3
+	Query: "dasypus novemcinctus" ; Times: 5
+	Query: "Sigmodon hispidus" ; Times: 1
+	Query: "genus:puma haslength:1" ; Times: 2
+	Query: "ursus americanus" ; Times: 1
+	Query: "western spotted skunk" ; Times: 1
+	Query: "genus:Dasypus novemcinctus" ; Times: 2
+	Query: "canis rufus" ; Times: 3
+	Query: "Lutra lutra" ; Times: 1
+
+
+End of report.
