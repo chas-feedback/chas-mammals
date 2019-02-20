@@ -1,0 +1,307 @@
+Report for Institution Code CHAS, Resource chas_mammals
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 494
+Number of records retrieved in searches: 5918
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 2
+	Country: Iran ; Times: 2
+	Country: Mexico ; Times: 15
+	Country: Unknown ; Times: 3
+	Country: Nepal ; Times: 1
+	Country: India ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 452
+	Country: Sweden ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Italy ; Times: 8
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 127
+	Date: 2019-01-23 ; Times: 2
+	Date: 2019-01-26 ; Times: 4
+	Date: 2019-01-18 ; Times: 3
+	Date: 2019-01-14 ; Times: 9
+	Date: 2019-01-15 ; Times: 6
+	Date: 2019-01-30 ; Times: 88
+	Date: 2019-01-17 ; Times: 7
+	Date: 2019-01-10 ; Times: 13
+	Date: 2019-01-11 ; Times: 8
+	Date: 2019-01-12 ; Times: 2
+	Date: 2019-01-03 ; Times: 2
+	Date: 2019-01-02 ; Times: 2
+	Date: 2019-01-29 ; Times: 139
+	Date: 2019-01-28 ; Times: 21
+	Date: 2019-01-01 ; Times: 3
+	Date: 2019-01-07 ; Times: 4
+	Date: 2019-01-06 ; Times: 2
+	Date: 2019-01-05 ; Times: 1
+	Date: 2019-01-04 ; Times: 3
+	Date: 2019-01-21 ; Times: 1
+	Date: 2019-01-20 ; Times: 2
+	Date: 2019-01-09 ; Times: 7
+	Date: 2019-01-22 ; Times: 7
+	Date: 2019-01-25 ; Times: 12
+	Date: 2019-01-24 ; Times: 6
+	Date: 2019-01-27 ; Times: 6
+	Date: 2019-01-08 ; Times: 4
+	Date: 2019-01-16 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Puma" ; Times: 2
+	Query: "&#34;Urocyon cinereoargenteus&#34;" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona year &lt;= 1930" ; Times: 1
+	Query: "North american porcupine &#34;Erethizon dorsatum&#34;" ; Times: 1
+	Query: "taxidea taxus" ; Times: 3
+	Query: "Ochotona princeps" ; Times: 3
+	Query: "specificepithet:lupus genus:Canis stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "tree shrew" ; Times: 2
+	Query: "erethizon dorsatum" ; Times: 13
+	Query: "(opossum) basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "Porcupine" ; Times: 2
+	Query: "(Didelphis virginiana)" ; Times: 3
+	Query: "family:canidae order:Carnivora preparations:skull hasmedia:1" ; Times: 2
+	Query: "peromyscus leucopus" ; Times: 3
+	Query: "(Ursus arctos)" ; Times: 1
+	Query: "&#34;virginiana&#34;" ; Times: 1
+	Query: "Elephas maximus" ; Times: 2
+	Query: "taxidea" ; Times: 2
+	Query: "&#34;Macroscelididae&#34;" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:CHAS" ; Times: 1
+	Query: "&#34;Erethizon&#34; &#34;Erethizon dorsatum&#34;" ; Times: 1
+	Query: "specificepithet:lateralis genus:spermophilus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Neotoma mexicana" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 19
+	Query: "&#34;erethizon&#34;" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "stateprovince:&#34;tennessee&#34; genus:mustela year &gt;= 1880 year &lt;= 2019" ; Times: 1
+	Query: "(erethizon dorsatum)" ; Times: 1
+	Query: "specificepithet:amoenus genus:tamias institutioncode:CHAS" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 8
+	Query: "specificepithet:lagopus genus:Vulpes institutioncode:CHAS" ; Times: 1
+	Query: "flamingo" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 1
+	Query: "(&#34;didelphis virginiana&#34;)" ; Times: 1
+	Query: "Eastern Spotted Skunk" ; Times: 1
+	Query: "spilogale" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 2
+	Query: "Virginia opossum" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "(Puma concolor)" ; Times: 1
+	Query: "weasel" ; Times: 2
+	Query: "specificepithet:rufus genus:Lynx continent:North America preparations:study hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "canis lupus baileyi" ; Times: 1
+	Query: "Dipodomys merriami stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona stateprovince:&#34;Wyoming&#34; year &gt;= 1930" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx continent:North America massing &gt;= 4000 massing &lt;= 15000 hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "specificepithet:rufus genus:Lynx continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 6
+	Query: "didelphis virginiana" ; Times: 17
+	Query: "specificepithet:carolinensis genus:Sciurus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 6
+	Query: "stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "“Erethizon dorsatum”" ; Times: 3
+	Query: "class:Mammalia county:&#34;orange&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus" ; Times: 1
+	Query: "erethizon and north american porcupine" ; Times: 2
+	Query: "Asian elephant" ; Times: 1
+	Query: "Erethizon (erethizon dorsatum)" ; Times: 1
+	Query: "specificepithet:seminolus genus:Lasiurus" ; Times: 2
+	Query: "&#34;Caracal caracal&#34;" ; Times: 1
+	Query: "Ursus arctos" ; Times: 2
+	Query: "&#34;erethizon dorsatum&#34;" ; Times: 9
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Tennessee&#34; continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "(&#34;Virginia Opossum&#34; &#34;Didelphis Virginiana&#34;)" ; Times: 3
+	Query: "North American Porcupine" ; Times: 1
+	Query: "Neotominae" ; Times: 2
+	Query: "ringtail" ; Times: 1
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "class:Mammalia county:&#34;rusk&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:lateralis genus:spermophilus" ; Times: 1
+	Query: "&#34;Erethizon dorsatum&#34;" ; Times: 56
+	Query: "&#34;Didelphis Virginiana&#34;" ; Times: 3
+	Query: "(&#34;North American Porcupine&#34; &#34;Erethizon Dorsatum&#34;)" ; Times: 2
+	Query: "Didelphimorphia" ; Times: 2
+	Query: "\4383" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 21
+	Query: "specificepithet:Striatus genus:Tamias continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 12
+	Query: "carnegie museum" ; Times: 1
+	Query: "vole" ; Times: 1
+	Query: "specificepithet:californicus genus:lepus" ; Times: 1
+	Query: "specificepithet:merriami genus:tamias institutioncode:CHAS" ; Times: 2
+	Query: "recordedby:O. M. King" ; Times: 1
+	Query: "specificepithet:striatus genus:tamias institutioncode:CHAS" ; Times: 1
+	Query: "Opossum" ; Times: 1
+	Query: "virginia opossum" ; Times: 3
+	Query: "lutra lutra" ; Times: 3
+	Query: "specificepithet:Striatus genus:Tamias continent:North america hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "&#34;didelphis&#34; &#34;virginiana&#34;" ; Times: 1
+	Query: "&#34;Didelphimorphia&#34; &#34;Virginia Opossum&#34;" ; Times: 2
+	Query: "“Porcupine”" ; Times: 1
+	Query: "genus:Urocyon institutioncode:CHAS" ; Times: 1
+	Query: "family:felidae order:Carnivora preparations:skull hasmedia:1" ; Times: 2
+	Query: "didelphis (didelphis virginiana)" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "&#34;didelphis virginiana&#34;" ; Times: 14
+	Query: "opossum" ; Times: 3
+	Query: "(opossum)" ; Times: 1
+	Query: "specificepithet:merriami genus:tamias" ; Times: 1
+	Query: "west indian manatee" ; Times: 1
+	Query: "Deer" ; Times: 1
+	Query: "genus:Lynx hasmass:1 haslength:1" ; Times: 1
+	Query: "(&#34;Virginia Opossum&#34;)" ; Times: 1
+	Query: "dasypus and nine banded armadillo" ; Times: 1
+	Query: "Canis rufus louisiana" ; Times: 5
+	Query: "&#34;ursus&#34;" ; Times: 2
+	Query: "(&#34;Erethizon Dorsatum&#34;)" ; Times: 1
+	Query: "elephas maximus" ; Times: 1
+	Query: "Canis rufus" ; Times: 2
+	Query: "specificepithet:rufus genus:Lynx continent:North America massing &gt;= 4000 massing &lt;= 10000 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "warreni" ; Times: 2
+	Query: "specificepithet:rufus genus:tamias institutioncode:CHAS" ; Times: 1
+	Query: "elephant shrew" ; Times: 4
+	Query: "specificepithet:Leucopus genus:Peromyscus continent:North America lengthtype:total length hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Brazos County" ; Times: 2
+	Query: "elephantulus rufescens" ; Times: 2
+	Query: "&#34;Elephantulus rufescens&#34;" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:Microtus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "specificepithet:carolinensis genus:Sciurus stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "&#34;erethizon&#34; &#34;dorsatum&#34;" ; Times: 1
+	Query: "north american porcupine" ; Times: 6
+	Query: "(&#34;North American Porcupine&#34;)" ; Times: 3
+	Query: "specificepithet:rufus genus:Lynx hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:striatus genus:tamias continent:north america hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "“Didelphimorphia” “Didelphis virginiana”" ; Times: 2
+	Query: "specificepithet:rufus genus:Lynx continent:North America massing &gt;= 4000 massing &lt;= 18000 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "recordnumber:1057" ; Times: 1
+	Query: "(&#34;Didelphis Virginiana&#34;)" ; Times: 1
+	Query: "Didelphis (didelphis virginiana)" ; Times: 2
+	Query: "Virginia Opossum Didelphis virginiana" ; Times: 3
+	Query: "Synaptomys" ; Times: 1
+	Query: "class:Mammalia county:&#34;anderson&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "(didelphis and virginia opossum)" ; Times: 1
+	Query: "family:mephitidae order:Carnivora preparations:skull hasmedia:1" ; Times: 1
+	Query: "specificepithet:speciosus genus:tamias institutioncode:CHAS" ; Times: 1
+	Query: "&#34;Didelphimorphia&#34; &#34;Didelphis virginiana&#34;" ; Times: 1
+	Query: "&#34;North American Porcupine&#34; and &#34;Erethizon dorsatum&#34;" ; Times: 1
+	Query: "Puma concolor" ; Times: 7
+	Query: "specificepithet:pennsylvanicus genus:Microtus stateprovince:&#34;Virginia&#34; country:&#34;United States&#34; continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "gbifdatasetid:4837d6b0-19fe-4fe4-9ddf-b62dd17a060e" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;cameron&#34; stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "california mouse" ; Times: 1
+	Query: "Usnm smithsonian" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 5
+	Query: "(Taxidea taxus)" ; Times: 1
+	Query: "specificepithet:rufus genus:tamias" ; Times: 1
+	Query: "North American porcupine" ; Times: 1
+	Query: "family:procyonidae order:Carnivora preparations:skull hasmedia:1" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "Taxidea taxus" ; Times: 1
+	Query: "(Erethizon dorsatum)" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "stateprovince:&#34;tennessee&#34; genus:mustela year &gt;= 1900 year &lt;= 2018" ; Times: 1
+	Query: "&#34;Virginia opossum&#34;" ; Times: 1
+	Query: "genus:Lasiurus stateprovince:&#34;Louisiana&#34;" ; Times: 3
+	Query: "lepus californicus" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "(&#34;Didelphis virginiana&#34;)" ; Times: 2
+	Query: "stateprovince:&#34;Colorado&#34; hasmedia:1" ; Times: 2
+	Query: "Erethizon dorsatum]" ; Times: 1
+	Query: "&#34;Didelphis virginiana&#34;" ; Times: 42
+	Query: "“Didelphis virginiana”" ; Times: 1
+	Query: "specificepithet:dorsalis genus:tamias institutioncode:CHAS" ; Times: 1
+	Query: "flying squirrel" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 3
+	Query: "specificepithet:carolinensis genus:Sciurus continent:north america hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "family:mustelidae order:Carnivora preparations:skull hasmedia:1" ; Times: 2
+	Query: "Arctic fox" ; Times: 1
+	Query: "didelphis virginia" ; Times: 4
+	Query: "canis latrans" ; Times: 1
+	Query: "(&#34;Erethizon dorsatum&#34;)" ; Times: 3
+	Query: "class:Mammalia county:&#34;calcasieu&#34; stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "specificepithet:umbrinus genus:tamias institutioncode:CHAS" ; Times: 2
+	Query: "North American Porcupine Erethizon dorsatum" ; Times: 4
+	Query: "specificepithet:princeps genus:Ochotona year &gt;= 1930 year &lt;= 1930" ; Times: 1
+	Query: "&#34;dorsatum&#34;" ; Times: 1
+	Query: "specificepithet:quadrivittatus genus:tamias institutioncode:CHAS" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "family:leporidae stateprovince:&#34;louisiana&#34;" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 962 download events in this period)
+Total number of records downloaded: 243
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 2
+	Country: United States ; Times: 31
+	Country: Sweden ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-29 ; Times: 10
+	Date: 2019-01-02 ; Times: 1
+	Date: 2019-01-17 ; Times: 2
+	Date: 2019-01-07 ; Times: 3
+	Date: 2019-01-06 ; Times: 1
+	Date: 2019-01-28 ; Times: 4
+	Date: 2019-01-14 ; Times: 2
+	Date: 2019-01-16 ; Times: 1
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-10 ; Times: 2
+	Date: 2019-01-11 ; Times: 5
+	Date: 2019-01-31 ; Times: 2
+	Date: 2019-01-30 ; Times: 4
+	Date: 2019-01-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:californicus genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Mammalia county:&#34;anderson&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "tayassu pecari" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 4
+	Query: "class:Mammalia stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus stateprovince:&#34;louisiana&#34;" ; Times: 3
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "class:Mammalia county:&#34;cameron&#34; stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "pecari tajacu" ; Times: 1
+	Query: "specificepithet:lateralis genus:spermophilus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Neotoma mexicana" ; Times: 1
+	Query: "Canis rufus louisiana" ; Times: 1
+	Query: "genus:Lasiurus stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "peromyscus californicus" ; Times: 1
+	Query: "stateprovince:&#34;tennessee&#34; genus:mustela year &gt;= 1880 year &lt;= 2019" ; Times: 1
+	Query: "&#34;Caracal caracal&#34;" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "flying squirrel" ; Times: 1
+	Query: "elephas maximus" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "genus:Dipodomys stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;rusk&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "elephantulus rufescens" ; Times: 1
+	Query: "class:Mammalia county:&#34;calcasieu&#34; stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;orange&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "genus:Alces year &gt;= 1989 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:Striatus genus:Tamias continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+
+
+End of report.
