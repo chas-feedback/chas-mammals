@@ -1,0 +1,257 @@
+Report for Institution Code CHAS, Resource chas_mammals
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 252
+Number of records retrieved in searches: 5538
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 29
+	Country: India ; Times: 4
+	Country: United States ; Times: 204
+	Country: Paraguay ; Times: 1
+	Country: Vietnam ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Bolivia ; Times: 3
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 12
+	Date: 2019-04-19 ; Times: 21
+	Date: 2019-04-18 ; Times: 19
+	Date: 2019-04-23 ; Times: 8
+	Date: 2019-04-12 ; Times: 1
+	Date: 2019-04-11 ; Times: 4
+	Date: 2019-04-10 ; Times: 14
+	Date: 2019-04-17 ; Times: 9
+	Date: 2019-04-16 ; Times: 3
+	Date: 2019-04-15 ; Times: 3
+	Date: 2019-04-14 ; Times: 2
+	Date: 2019-04-30 ; Times: 35
+	Date: 2019-04-02 ; Times: 13
+	Date: 2019-04-03 ; Times: 3
+	Date: 2019-04-06 ; Times: 5
+	Date: 2019-04-22 ; Times: 17
+	Date: 2019-04-05 ; Times: 7
+	Date: 2019-04-20 ; Times: 3
+	Date: 2019-04-07 ; Times: 2
+	Date: 2019-04-26 ; Times: 5
+	Date: 2019-04-01 ; Times: 5
+	Date: 2019-04-24 ; Times: 4
+	Date: 2019-04-25 ; Times: 29
+	Date: 2019-04-28 ; Times: 1
+	Date: 2019-04-29 ; Times: 9
+	Date: 2019-04-08 ; Times: 7
+	Date: 2019-04-09 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "Puma" ; Times: 1
+	Query: "Myotis volans" ; Times: 1
+	Query: "&#34;Microtus californicus&#34;" ; Times: 1
+	Query: "genus:Spermophilus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "zapus princeps" ; Times: 5
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "Myotis septentrionalis year &lt;= 1970" ; Times: 2
+	Query: "peromyscus leucopus" ; Times: 1
+	Query: "Ursus" ; Times: 1
+	Query: "catalognumber:1327" ; Times: 1
+	Query: "specificepithet:beecheyi" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx" ; Times: 1
+	Query: "Ursus americanus" ; Times: 6
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 1
+	Query: "puma concolor" ; Times: 5
+	Query: "California vole" ; Times: 1
+	Query: "Otospermophilus beecheyi" ; Times: 3
+	Query: "genus:caracal class:mammalia" ; Times: 9
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "ferret" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "specificepithet:seminolus genus:lasiurus" ; Times: 1
+	Query: "spilogale" ; Times: 1
+	Query: "Pipistrellus subflavus" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 3
+	Query: "genus:Spermophilus OR Callospermophilus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "genus:Spilogale institutioncode:CHAS" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 7
+	Query: "canis lupus (mexico)" ; Times: 2
+	Query: "specificepithet:mexicana genus:Neotoma stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "NYCTICEIUS humeralis" ; Times: 1
+	Query: "deer mouse" ; Times: 28
+	Query: "Sus scrofa mappable:1" ; Times: 2
+	Query: "Myotis grisescens" ; Times: 1
+	Query: "catalognumber:1297" ; Times: 2
+	Query: "Swift fox" ; Times: 1
+	Query: "family:ursidae hasmedia:1" ; Times: 8
+	Query: "genus:Conepatus institutioncode:CHAS" ; Times: 1
+	Query: "jenks" ; Times: 1
+	Query: "genus:Dipodomys" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 6
+	Query: "Sciurus carolinensis country:&#34;canada&#34;" ; Times: 1
+	Query: "southeastern beach mouse" ; Times: 1
+	Query: "vntype:specimen specificepithet:lupus genus:Canis hasmedia:1" ; Times: 1
+	Query: "shrew" ; Times: 1
+	Query: "specificepithet:lupus baileyi genus:Canis" ; Times: 1
+	Query: "pika" ; Times: 3
+	Query: "american mink" ; Times: 3
+	Query: "genus:Peromyscus stateprovince:&#34;Illinois&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:americanus family:ursidae hasmedia:1" ; Times: 5
+	Query: "Macroscelididae" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus stateprovince:&#34;arkansas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "red wolf" ; Times: 1
+	Query: "Macroscelidea" ; Times: 2
+	Query: "vole" ; Times: 1
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "genus:Mephitis institutioncode:CHAS" ; Times: 1
+	Query: "bobcat" ; Times: 1
+	Query: "lutra lutra" ; Times: 3
+	Query: "continent:africa institutioncode:CHAS" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "Myotis californicus" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "M-5742" ; Times: 1
+	Query: "marmot" ; Times: 1
+	Query: "genus:Elephas (Elephas)" ; Times: 1
+	Query: "mustela nigripes" ; Times: 2
+	Query: "vntype:specimen specificepithet:lupus genus:canis country:&#34;United States&#34; (California OR oregon)" ; Times: 1
+	Query: "specificepithet:concolor genus:puma" ; Times: 1
+	Query: "genus:Puma" ; Times: 2
+	Query: "ailurus fulgens" ; Times: 4
+	Query: "lynx rufus" ; Times: 3
+	Query: "Western harvest mouse" ; Times: 1
+	Query: "long-tailed weasel" ; Times: 8
+	Query: "neovison vison" ; Times: 1
+	Query: "Dicotyles" ; Times: 1
+	Query: "Sylvilagus bachmani" ; Times: 1
+	Query: "california ground squirrel" ; Times: 5
+	Query: "snowshoe hare" ; Times: 5
+	Query: "lutra" ; Times: 1
+	Query: "Deer mouse" ; Times: 1
+	Query: "caracal class:mammalia" ; Times: 4
+	Query: "Striped skunk" ; Times: 1
+	Query: "Otospermophilus beecheyi (California Ground Squirrel)" ; Times: 1
+	Query: "Northern grasshopper mouse" ; Times: 1
+	Query: "vntype:specimen specificepithet:americanus genus:lepus stateprovince:&#34;Wisconsin&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vagrant shrew" ; Times: 6
+	Query: "Puma concolor" ; Times: 1
+	Query: "gbifdatasetid:4837d6b0-19fe-4fe4-9ddf-b62dd17a060e" ; Times: 4
+	Query: "(mustela frenata)" ; Times: 1
+	Query: "(Elephas)" ; Times: 1
+	Query: "Mustela frenata" ; Times: 13
+	Query: "caracal" ; Times: 1
+	Query: "golden-mantled ground squirrel" ; Times: 3
+	Query: "class:Mammalia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "elephas" ; Times: 2
+	Query: "Grass mountain" ; Times: 2
+	Query: "ursus" ; Times: 3
+	Query: "genus:Peromyscus stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "flying squirrel" ; Times: 2
+	Query: "mustela frenata" ; Times: 2
+	Query: "odocoileus" ; Times: 1
+	Query: "genus:Canis hasmedia:1" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "(Deer Creek Colorado)" ; Times: 1
+	Query: "wolf photos" ; Times: 1
+	Query: "western harvest mouse" ; Times: 3
+	Query: "Corynorhinus rafinesquii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 63 (out of 1263 download events in this period)
+Total number of records downloaded: 1316
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 55
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-18 ; Times: 11
+	Date: 2019-04-02 ; Times: 20
+	Date: 2019-04-30 ; Times: 6
+	Date: 2019-04-10 ; Times: 4
+	Date: 2019-04-17 ; Times: 5
+	Date: 2019-04-06 ; Times: 1
+	Date: 2019-04-14 ; Times: 2
+	Date: 2019-04-22 ; Times: 3
+	Date: 2019-04-05 ; Times: 2
+	Date: 2019-04-20 ; Times: 1
+	Date: 2019-04-26 ; Times: 1
+	Date: 2019-04-24 ; Times: 2
+	Date: 2019-04-25 ; Times: 1
+	Date: 2019-04-03 ; Times: 1
+	Date: 2019-04-08 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Lasiurus seminolus" ; Times: 2
+	Query: "canis lupus (mexico)" ; Times: 2
+	Query: "NYCTICEIUS humeralis" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 2
+	Query: "Myotis volans" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis grisescens" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "vntype:specimen specificepithet:americanus genus:lepus stateprovince:&#34;Wisconsin&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "&#34;Microtus californicus&#34;" ; Times: 1
+	Query: "Didelphis virginiana year &gt;= 1970" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "specificepithet:musculus genus:mus" ; Times: 1
+	Query: "Myotis ciliolabrum" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "Myotis californicus" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 2
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "Macroscelididae" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "Pipistrellus subflavus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:musculus genus:Mus" ; Times: 1
+	Query: "Otospermophilus beecheyi" ; Times: 1
+	Query: "specificepithet:concolor genus:puma" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "specificepithet:canadensis genus:Ovis" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Northern grasshopper mouse" ; Times: 1
+	Query: "Puma" ; Times: 1
+	Query: "long-tailed weasel" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Macroscelidea" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "genus:caracal class:mammalia" ; Times: 1
+	Query: "specificepithet:lupus baileyi genus:Canis" ; Times: 1
+	Query: "specificepithet:americana genus:Antilocapra" ; Times: 1
+	Query: "Myotis keenii" ; Times: 1
+	Query: "american mink" ; Times: 1
+	Query: "california ground squirrel" ; Times: 1
+	Query: "snowshoe hare" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Dipodomys" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "red wolf" ; Times: 1
+	Query: "Corynorhinus rafinesquii" ; Times: 2
+
+
+End of report.
