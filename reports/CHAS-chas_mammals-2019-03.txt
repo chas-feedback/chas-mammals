@@ -1,0 +1,159 @@
+Report for Institution Code CHAS, Resource chas_mammals
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 119
+Number of records retrieved in searches: 1588
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 92
+	Country: Denmark ; Times: 20
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-02 ; Times: 3
+	Date: 2019-03-28 ; Times: 1
+	Date: 2019-03-09 ; Times: 2
+	Date: 2019-03-26 ; Times: 3
+	Date: 2019-03-25 ; Times: 1
+	Date: 2019-03-23 ; Times: 6
+	Date: 2019-03-08 ; Times: 17
+	Date: 2019-03-21 ; Times: 3
+	Date: 2019-03-20 ; Times: 1
+	Date: 2019-03-04 ; Times: 2
+	Date: 2019-03-07 ; Times: 2
+	Date: 2019-03-06 ; Times: 10
+	Date: 2019-03-01 ; Times: 3
+	Date: 2019-03-29 ; Times: 1
+	Date: 2019-03-22 ; Times: 5
+	Date: 2019-03-30 ; Times: 3
+	Date: 2019-03-31 ; Times: 1
+	Date: 2019-03-03 ; Times: 11
+	Date: 2019-03-18 ; Times: 5
+	Date: 2019-03-17 ; Times: 1
+	Date: 2019-03-14 ; Times: 4
+	Date: 2019-03-15 ; Times: 1
+	Date: 2019-03-12 ; Times: 2
+	Date: 2019-03-13 ; Times: 21
+	Date: 2019-03-10 ; Times: 9
+	Date: 2019-03-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Tamiasciurus hasmass:1" ; Times: 1
+	Query: "specificepithet:brevicauda genus:Blarina" ; Times: 2
+	Query: "specificepithet:nigripes genus:mustela" ; Times: 1
+	Query: "genus:blarina stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "erethizon" ; Times: 1
+	Query: "specificepithet:merriami genus:tamias institutioncode:CHAS" ; Times: 1
+	Query: "tamias" ; Times: 1
+	Query: "marmot" ; Times: 2
+	Query: "specificepithet:rufus genus:Canis family:Canidae AND (NOT UTEP)" ; Times: 1
+	Query: "gray wolf" ; Times: 1
+	Query: "catalognumber:1393" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "specificepithet:hudsonicus genus:tamiasciurus hasmass:1" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "specificepithet:carolinensis genus:Sciurus hasmass:1" ; Times: 1
+	Query: "specificepithet:chrotorrhinus genus:Microtus stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "Neovison" ; Times: 4
+	Query: "black bear" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes" ; Times: 1
+	Query: "gbifdatasetid:4837d6b0-19fe-4fe4-9ddf-b62dd17a060e" ; Times: 4
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Puma concolor mappable:1" ; Times: 20
+	Query: "genus:Didelphis hasmass:1" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus hasmass:1" ; Times: 3
+	Query: "blarina brevicauda" ; Times: 1
+	Query: "specificepithet:zibethicus genus:Ondatra" ; Times: 2
+	Query: "Ringtail" ; Times: 3
+	Query: "puma concolor" ; Times: 3
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 5
+	Query: "specificepithet:parvus genus:Perognathus county:&#34;Inyo&#34;" ; Times: 1
+	Query: "catalognumber:4957" ; Times: 1
+	Query: "Peromyscus polionotus niveiventris genus:Peromyscus polionotus niveiventris" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis hasmass:1" ; Times: 1
+	Query: "Blarina" ; Times: 2
+	Query: "genus:Ondatra" ; Times: 1
+	Query: "american bison" ; Times: 1
+	Query: "Canis rufus" ; Times: 1
+	Query: "genus:neotoma stateprovince:&#34;tennessee&#34;" ; Times: 1
+	Query: "mustela erminea" ; Times: 1
+	Query: "mm 424" ; Times: 1
+	Query: "kangaroo rat" ; Times: 1
+	Query: "genus:urocyon stateprovince:&#34;wisconsin&#34;" ; Times: 1
+	Query: "neovison vison" ; Times: 12
+	Query: "genus:Nycticeius" ; Times: 1
+	Query: "stateprovince:&#34;Kentucky&#34; specificepithet:leucopus genus:Peromyscus year &gt;= 1900 year &lt;= 2019" ; Times: 4
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 2
+	Query: "specificepithet:chrotorrhinus genus:Microtus" ; Times: 1
+	Query: "lontra" ; Times: 1
+	Query: "Lontra canadensis hasmass:1" ; Times: 1
+	Query: "genus:urocyon stateprovince:&#34;illinois&#34; year &gt;= 1975" ; Times: 1
+	Query: "harvest mouse" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "smoky shrew" ; Times: 1
+	Query: "eastern grey squirrel" ; Times: 1
+	Query: "scapanus latimanus occultus" ; Times: 1
+	Query: "AMERICAN PIKA" ; Times: 2
+	Query: "scapanus latimanus" ; Times: 2
+	Query: "franklinii" ; Times: 1
+	Query: "Nycticeius" ; Times: 1
+	Query: "specificepithet:vison" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 1281 download events in this period)
+Total number of records downloaded: 596
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 27
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-18 ; Times: 1
+	Date: 2019-03-22 ; Times: 1
+	Date: 2019-03-03 ; Times: 1
+	Date: 2019-03-04 ; Times: 2
+	Date: 2019-03-05 ; Times: 1
+	Date: 2019-03-23 ; Times: 2
+	Date: 2019-03-08 ; Times: 11
+	Date: 2019-03-21 ; Times: 1
+	Date: 2019-03-20 ; Times: 3
+	Date: 2019-03-16 ; Times: 1
+	Date: 2019-03-17 ; Times: 1
+	Date: 2019-03-06 ; Times: 1
+	Date: 2019-03-12 ; Times: 1
+	Date: 2019-03-29 ; Times: 2
+	Date: 2019-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:americana genus:martes" ; Times: 1
+	Query: "order:Primates haslength:1" ; Times: 1
+	Query: "specificepithet:brevicauda genus:Blarina" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:vison genus:neovison" ; Times: 1
+	Query: "specificepithet:gulo" ; Times: 3
+	Query: "specificepithet:canadensis genus:lontra" ; Times: 3
+	Query: "specificepithet:taxus genus:taxidea" ; Times: 1
+	Query: "chiroptera" ; Times: 1
+	Query: "genus:urocyon stateprovince:&#34;illinois&#34; year &gt;= 1975" ; Times: 1
+	Query: "specificepithet:vison" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus hasmass:1" ; Times: 2
+	Query: "specificepithet:erminea arctica genus:mustela" ; Times: 1
+	Query: "genus:neovison" ; Times: 1
+	Query: "genus:Ictonyx" ; Times: 1
+	Query: "panda" ; Times: 2
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "specificepithet:erminea genus:mustela" ; Times: 5
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:Alces alces stateprovince:&#34;Alaska&#34;" ; Times: 1
+
+
+End of report.
