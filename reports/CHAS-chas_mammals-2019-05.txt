@@ -1,0 +1,164 @@
+Report for Institution Code CHAS, Resource chas_mammals
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 139
+Number of records retrieved in searches: 1111
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 13
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 97
+	Country: Peru ; Times: 1
+	Country: Sri Lanka ; Times: 12
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-30 ; Times: 1
+	Date: 2019-05-09 ; Times: 1
+	Date: 2019-05-08 ; Times: 16
+	Date: 2019-05-07 ; Times: 6
+	Date: 2019-05-06 ; Times: 17
+	Date: 2019-05-03 ; Times: 16
+	Date: 2019-05-02 ; Times: 4
+	Date: 2019-05-01 ; Times: 7
+	Date: 2019-05-25 ; Times: 1
+	Date: 2019-05-27 ; Times: 1
+	Date: 2019-05-26 ; Times: 1
+	Date: 2019-05-21 ; Times: 18
+	Date: 2019-05-20 ; Times: 2
+	Date: 2019-05-23 ; Times: 1
+	Date: 2019-05-22 ; Times: 3
+	Date: 2019-05-29 ; Times: 1
+	Date: 2019-05-28 ; Times: 6
+	Date: 2019-05-19 ; Times: 2
+	Date: 2019-05-10 ; Times: 4
+	Date: 2019-05-11 ; Times: 3
+	Date: 2019-05-12 ; Times: 1
+	Date: 2019-05-13 ; Times: 3
+	Date: 2019-05-14 ; Times: 5
+	Date: 2019-05-15 ; Times: 15
+	Date: 2019-05-16 ; Times: 1
+	Date: 2019-05-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Red panda" ; Times: 1
+	Query: "gray wolf" ; Times: 1
+	Query: "sorex cinereus" ; Times: 2
+	Query: "specificepithet:austroriparius genus:Myotis country:&#34;United States&#34; sex:MALe" ; Times: 1
+	Query: "genus:canis hasmedia:1" ; Times: 9
+	Query: "Microtus chrotorrhinus" ; Times: 1
+	Query: "vntype:specimen genus:Canis hasmedia:1" ; Times: 1
+	Query: "glaucomys volans" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "virginia opossum" ; Times: 1
+	Query: "lutra lutra" ; Times: 2
+	Query: "Puma concolor" ; Times: 14
+	Query: "gbifdatasetid:4837d6b0-19fe-4fe4-9ddf-b62dd17a060e" ; Times: 4
+	Query: "blarina brevicauda" ; Times: 1
+	Query: "neotoma magister" ; Times: 1
+	Query: "puma" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "peromyscus leucopus" ; Times: 1
+	Query: "&#34;Peromyscus&#34; &#34;Michigan&#34;" ; Times: 1
+	Query: "Scapanus latimanus" ; Times: 2
+	Query: "genus:Mustela haslength:1" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 14
+	Query: "specificepithet:austroriparius genus:Myotis country:&#34;United States&#34;" ; Times: 1
+	Query: "V 1653" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "specificepithet:austroriparius genus:Myotis country:&#34;United States&#34; sex:Female" ; Times: 1
+	Query: "sciurus griseus" ; Times: 1
+	Query: "genus:Tamias county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:parryii genus:Spermophilus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Gigas" ; Times: 3
+	Query: "black bear" ; Times: 1
+	Query: "&#34;Peromyscus&#34; &#34;leucopus&#34; &#34;Illinois&#34; year &gt;= 2000" ; Times: 1
+	Query: "leucopus" ; Times: 1
+	Query: "eastern spotted skunk florida" ; Times: 1
+	Query: "mustela nigripes" ; Times: 5
+	Query: "&#34;Peromyscus&#34; &#34;leucopus&#34; &#34;Wisconsin&#34; year &lt;= 1960" ; Times: 1
+	Query: "&#34;maniculatus&#34; &#34;Wisconsin&#34;" ; Times: 1
+	Query: "specificepithet:canadensis genus:castor" ; Times: 1
+	Query: "ptarmigan" ; Times: 2
+	Query: "specificepithet:latrans" ; Times: 1
+	Query: "&#34;Peromyscus&#34; stateprovince:&#34;Michigan&#34;" ; Times: 2
+	Query: "Canis rufus" ; Times: 2
+	Query: "specificepithet:lupus genus:Canis hasmedia:1" ; Times: 1
+	Query: "specificepithet:merriami genus:Tamias" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 7
+	Query: "bassariscus" ; Times: 1
+	Query: "genus: canis mandible" ; Times: 1
+	Query: "ursus americanus" ; Times: 6
+	Query: "Canis lupus baileyi" ; Times: 2
+	Query: "specificepithet:frenata genus:Mustela haslength:1" ; Times: 1
+	Query: "class:Mammalia pallid bat" ; Times: 1
+	Query: "Gophers" ; Times: 1
+	Query: "specificepithet:latrans genus:canis" ; Times: 1
+	Query: "genus:Canis hasmedia:1" ; Times: 1
+	Query: "white-tailed deer" ; Times: 1
+	Query: "Geomyidae genus:Thomomys family:Geomyidae country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 1
+	Query: "ursus arctos" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 3
+	Query: "canis rufus" ; Times: 1
+	Query: "silver-haired bat" ; Times: 1
+	Query: "&#34;Minnesota&#34; &#34;maniculatus&#34;" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 4
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "Geomys breviceps" ; Times: 1
+	Query: "specificepithet:Bachmani genus:Sylvilagus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 940 download events in this period)
+Total number of records downloaded: 604
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-25 ; Times: 1
+	Date: 2019-05-21 ; Times: 2
+	Date: 2019-05-20 ; Times: 1
+	Date: 2019-05-06 ; Times: 6
+	Date: 2019-05-07 ; Times: 1
+	Date: 2019-05-08 ; Times: 1
+	Date: 2019-05-10 ; Times: 1
+	Date: 2019-05-11 ; Times: 1
+	Date: 2019-05-13 ; Times: 1
+	Date: 2019-05-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Red panda" ; Times: 1
+	Query: "specificepithet:latrans genus:canis" ; Times: 1
+	Query: "peromyscus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "class:Mammalia stateprovince:Oregon" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "specificepithet:austroriparius genus:Myotis country:&#34;United States&#34; sex:MALe" ; Times: 1
+	Query: "specificepithet:austroriparius genus:Myotis country:&#34;United States&#34; sex:Female" ; Times: 1
+	Query: "specificepithet:merriami genus:Tamias" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "Canis lupus baileyi" ; Times: 1
+
+
+End of report.
