@@ -1,0 +1,199 @@
+Report for Institution Code CHAS, Resource chas_mammals
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 143
+Number of records retrieved in searches: 2102
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Peru ; Times: 6
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 2
+	Country: Nepal ; Times: 6
+	Country: United States ; Times: 116
+	Country: Chile ; Times: 3
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 2
+	Date: 2019-07-18 ; Times: 2
+	Date: 2019-07-19 ; Times: 6
+	Date: 2019-07-08 ; Times: 26
+	Date: 2019-07-12 ; Times: 1
+	Date: 2019-07-10 ; Times: 3
+	Date: 2019-07-11 ; Times: 12
+	Date: 2019-07-30 ; Times: 4
+	Date: 2019-07-17 ; Times: 6
+	Date: 2019-07-14 ; Times: 6
+	Date: 2019-07-15 ; Times: 17
+	Date: 2019-07-29 ; Times: 6
+	Date: 2019-07-23 ; Times: 1
+	Date: 2019-07-22 ; Times: 12
+	Date: 2019-07-21 ; Times: 5
+	Date: 2019-07-02 ; Times: 1
+	Date: 2019-07-27 ; Times: 1
+	Date: 2019-07-26 ; Times: 4
+	Date: 2019-07-25 ; Times: 2
+	Date: 2019-07-16 ; Times: 2
+	Date: 2019-07-03 ; Times: 8
+	Date: 2019-07-28 ; Times: 5
+	Date: 2019-07-05 ; Times: 2
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-06 ; Times: 2
+	Date: 2019-07-31 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:CHAS" ; Times: 2
+	Query: "Spilogale putorius" ; Times: 2
+	Query: "genus:ammospermophilus order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:CHAS" ; Times: 1
+	Query: "peromyscus leucopus" ; Times: 1
+	Query: "genus:reithrodontomys order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:CHAS" ; Times: 1
+	Query: "Sus scrofa mappable:1" ; Times: 1
+	Query: "specificepithet:harrisii genus:Ammospermophilus hasmedia:1" ; Times: 1
+	Query: "genus:thomomys order:rodentia class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:CHAS" ; Times: 1
+	Query: "eastern gray squirrel" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "puma concolor" ; Times: 4
+	Query: "spilogale putorius" ; Times: 1
+	Query: "porcupine" ; Times: 3
+	Query: "genus:tamias class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:CHAS" ; Times: 1
+	Query: "genus:Napaeozapus specificepithet:insignis" ; Times: 1
+	Query: "54-213" ; Times: 2
+	Query: "7044" ; Times: 1
+	Query: "Caracal caracal" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "Wray Peromyscus" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "little brown bat" ; Times: 1
+	Query: "genus:thomomys class:mammalia county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:CHAS" ; Times: 1
+	Query: "genus:peromyscus order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:CHAS" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "genus:Corynorhinus specificepithet:rafinesquii" ; Times: 1
+	Query: "order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:CHAS" ; Times: 1
+	Query: "Eastern Spotted Skunk" ; Times: 3
+	Query: "Rattus norvegicus" ; Times: 4
+	Query: "class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:CHAS" ; Times: 2
+	Query: "sciurus carolinensis" ; Times: 2
+	Query: "ursus arctos" ; Times: 3
+	Query: "genus:Chaetodipus specificepithet:intermedius" ; Times: 1
+	Query: "genus:Sciurus specificepithet:aberti" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Tadarida+brasiliensis" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis" ; Times: 1
+	Query: "genus:Glaucomys specificepithet:sabrinus" ; Times: 1
+	Query: "Marmota flaviventris" ; Times: 1
+	Query: "&#34;napaeozapus insignis&#34;" ; Times: 1
+	Query: "mustela erminea" ; Times: 2
+	Query: "Tadarida" ; Times: 2
+	Query: "genus:Zapus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "genus:dipodomys class:mammalia county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:CHAS" ; Times: 1
+	Query: "family:sciuridae hasmedia:1" ; Times: 2
+	Query: "genus:peromyscus class:mammalia county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:CHAS" ; Times: 1
+	Query: "genus:thomomys class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:CHAS" ; Times: 1
+	Query: "Skulls" ; Times: 1
+	Query: "genus:perognathus order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:CHAS" ; Times: 1
+	Query: "genus:peromyscus county:&#34;BREVARD&#34;" ; Times: 1
+	Query: "genus:Lasionycteris specificepithet:noctivagans" ; Times: 1
+	Query: "family:soricidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "genus:Ammospermophilus specificepithet:harrisii" ; Times: 1
+	Query: "order:chiroptera class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:peromyscus class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:CHAS" ; Times: 1
+	Query: "genus:microtus order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:CHAS" ; Times: 1
+	Query: "genus:Marmota specificepithet:monax" ; Times: 1
+	Query: "nycteris" ; Times: 1
+	Query: "class:mammalia county:&#34;imperial&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 3
+	Query: "genus:Podomys" ; Times: 1
+	Query: "specificepithet:maximus genus:Elephas" ; Times: 1
+	Query: "Myotis sodalis mappable:1" ; Times: 2
+	Query: "felis concolor" ; Times: 3
+	Query: "squirrel" ; Times: 1
+	Query: "genus:thomomys order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:CHAS" ; Times: 1
+	Query: "class:mammalia county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:CHAS" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "genus:chaetodipus order:rodentia class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:CHAS" ; Times: 1
+	Query: "genus:Antrozous" ; Times: 1
+	Query: "specificepithet:monax genus:Marmota hasmedia:1" ; Times: 1
+	Query: "genus:peromyscus order:rodentia class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:neotoma order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:CHAS" ; Times: 1
+	Query: "genus:chaetodipus class:mammalia county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:CHAS" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 4
+	Query: "order:Rodentia hasmass:1" ; Times: 1
+	Query: "genus:sciurus family:sciuridae hasmedia:1" ; Times: 1
+	Query: "42-480" ; Times: 1
+	Query: "order:chiroptera class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:CHAS" ; Times: 1
+	Query: "class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:CHAS" ; Times: 2
+	Query: "class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:CHAS" ; Times: 2
+	Query: "gbifdatasetid:4837d6b0-19fe-4fe4-9ddf-b62dd17a060e" ; Times: 4
+	Query: "American Mink" ; Times: 1
+	Query: "class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "HAZEL" ; Times: 2
+	Query: "specificepithet:vulpes genus:Vulpes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:hudsonius genus:Zapus" ; Times: 1
+	Query: "genus:chaetodipus county:&#34;imperial&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Sigmodon specificepithet:hispidus" ; Times: 1
+	Query: "genus:tadarida class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:CHAS" ; Times: 2
+	Query: "genus:spermophilus order:rodentia class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:CHAS" ; Times: 1
+	Query: "genus:Vulpes hasmedia:1" ; Times: 3
+	Query: "vntype:specimen genus:vulpes hasmedia:1" ; Times: 1
+	Query: "genus:Sciurus specificepithet:vulgaris" ; Times: 1
+	Query: "genus:peromyscus order:rodentia class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:CHAS" ; Times: 1
+	Query: "genus:dipodomys order:rodentia class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:CHAS" ; Times: 1
+	Query: "specificepithet:BREVICAUDA stateprovince:&#34;VIRGINIA&#34;" ; Times: 2
+	Query: "Lynx canadensis" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 985 download events in this period)
+Total number of records downloaded: 668
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Unknown ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 1
+	Date: 2019-07-08 ; Times: 1
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-19 ; Times: 1
+	Date: 2019-07-25 ; Times: 4
+	Date: 2019-07-05 ; Times: 2
+	Date: 2019-07-10 ; Times: 1
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-31 ; Times: 1
+	Date: 2019-07-23 ; Times: 3
+	Date: 2019-07-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:concolor genus:puma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:mephitis genus:mephitis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "order:Rodentia hasmass:1" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "family:soricidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "Eastern Spotted Skunk" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 3
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1931 year &lt;= 1940" ; Times: 1
+	Query: "specificepithet:hudsonius genus:Zapus" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;california&#34;" ; Times: 1
+
+
+End of report.
