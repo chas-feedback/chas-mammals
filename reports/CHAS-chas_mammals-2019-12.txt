@@ -1,0 +1,158 @@
+Report for Institution Code CHAS, Resource chas_mammals
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 136
+Number of records retrieved in searches: 2260
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 124
+	Country: Germany ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 8
+	Date: 2019-12-27 ; Times: 1
+	Date: 2019-12-26 ; Times: 3
+	Date: 2019-12-21 ; Times: 1
+	Date: 2019-12-20 ; Times: 4
+	Date: 2019-12-28 ; Times: 5
+	Date: 2019-12-18 ; Times: 6
+	Date: 2019-12-19 ; Times: 1
+	Date: 2019-12-10 ; Times: 1
+	Date: 2019-12-11 ; Times: 11
+	Date: 2019-12-12 ; Times: 10
+	Date: 2019-12-13 ; Times: 7
+	Date: 2019-12-14 ; Times: 3
+	Date: 2019-12-15 ; Times: 3
+	Date: 2019-12-16 ; Times: 1
+	Date: 2019-12-17 ; Times: 6
+	Date: 2019-12-31 ; Times: 20
+	Date: 2019-12-09 ; Times: 14
+	Date: 2019-12-08 ; Times: 5
+	Date: 2019-12-07 ; Times: 1
+	Date: 2019-12-05 ; Times: 3
+	Date: 2019-12-04 ; Times: 16
+	Date: 2019-12-03 ; Times: 3
+	Date: 2019-12-02 ; Times: 1
+	Date: 2019-12-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:Canis family:Canidae continent:&#34;North America&#34;" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 2
+	Query: "genus:Condylura" ; Times: 2
+	Query: "month &gt;= 12 month &lt;= 12 distance(location,geopoint(30.388861411120605,-87.20508770512714))&lt;15604" ; Times: 1
+	Query: "lagurus" ; Times: 1
+	Query: "mallard duck" ; Times: 2
+	Query: "marmota monax" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "specificepithet:eremicus genus:peromyscus county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:CHAS" ; Times: 1
+	Query: "Spotted skunk" ; Times: 1
+	Query: "genus:canis stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis year &gt;= 1400 year &lt;= 1910" ; Times: 3
+	Query: "gray fox" ; Times: 2
+	Query: "catalognumber:1129" ; Times: 1
+	Query: "&#34;canis rufus gregoryi&#34;" ; Times: 2
+	Query: "Spilogale putorius" ; Times: 2
+	Query: "gbifdatasetid:4837d6b0-19fe-4fe4-9ddf-b62dd17a060e" ; Times: 3
+	Query: "L.R. Wolfe" ; Times: 10
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "L. R. Wolfe" ; Times: 1
+	Query: "southern rock vole" ; Times: 1
+	Query: "microtus chrotorrhinus" ; Times: 16
+	Query: "canis rufus" ; Times: 11
+	Query: "specificepithet:townsendii genus:lepus year &lt;= 2018 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:canis continent:&#34;North America&#34;" ; Times: 1
+	Query: "specificepithet:putorius genus:spilogale institutioncode:CHAS" ; Times: 1
+	Query: "genus:canis family:canidae continent:&#34;North America&#34;" ; Times: 1
+	Query: "puma concolor" ; Times: 3
+	Query: "spilogale putorius" ; Times: 2
+	Query: "wild boar" ; Times: 1
+	Query: "mustela nigripes" ; Times: 2
+	Query: "Otospermophilus beecheyi" ; Times: 1
+	Query: "squirrel" ; Times: 1
+	Query: "Perognathus flavescens" ; Times: 2
+	Query: "Canis Rufus Gregoryi" ; Times: 1
+	Query: "cmnh" ; Times: 1
+	Query: "genus:Bassariscus" ; Times: 1
+	Query: "vntype:specimen specificepithet:townsendii genus:lepus" ; Times: 1
+	Query: "genus:Ochrotomys stateprovince:&#34;Kentucky&#34;" ; Times: 6
+	Query: "puma" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Geomys basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:canis family:canidae order:carnivora continent:&#34;North America&#34;" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "big brown bat" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "specificepithet:putorius genus:SPilogale" ; Times: 3
+	Query: "pika" ; Times: 2
+	Query: "Oscar E. Baynard" ; Times: 2
+	Query: "rock vole" ; Times: 2
+	Query: "Microtus chrotorrhinus" ; Times: 8
+	Query: "Owl skull" ; Times: 3
+	Query: "specificepithet:latrans genus:canis" ; Times: 1
+	Query: "red squirrel" ; Times: 1
+	Query: "specificepithet:rufus genus:Canis" ; Times: 1
+	Query: "Geomys" ; Times: 1
+	Query: "perognathus parvus" ; Times: 2
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:townsendii genus:lepus year &lt;= 2018" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "locality:Dos Palmas county:&#34;Riverside&#34;" ; Times: 1
+	Query: "skunk" ; Times: 1
+	Query: "western harvest mouse" ; Times: 1
+	Query: "Oscar E. Baynard year &gt;= 1910" ; Times: 1
+	Query: "franklinii franklinii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 596 download events in this period)
+Total number of records downloaded: 242
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-27 ; Times: 1
+	Date: 2019-12-13 ; Times: 1
+	Date: 2019-12-20 ; Times: 1
+	Date: 2019-12-31 ; Times: 2
+	Date: 2019-12-03 ; Times: 1
+	Date: 2019-12-10 ; Times: 1
+	Date: 2019-12-11 ; Times: 1
+	Date: 2019-12-05 ; Times: 1
+	Date: 2019-12-04 ; Times: 3
+	Date: 2019-12-14 ; Times: 1
+	Date: 2019-12-02 ; Times: 2
+	Date: 2019-12-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "puma concolor" ; Times: 1
+	Query: "Head Tail hasmass:1 haslength:1" ; Times: 1
+	Query: "southern rock vole" ; Times: 1
+	Query: "Perognathus flavescens" ; Times: 1
+	Query: "myotis volans" ; Times: 1
+	Query: "marmota monax" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "genus:Condylura" ; Times: 2
+	Query: "canis rufus" ; Times: 1
+	Query: "Spotted skunk" ; Times: 1
+	Query: "genus:canis stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "&#34;canis rufus gregoryi&#34;" ; Times: 1
+
+
+End of report.
