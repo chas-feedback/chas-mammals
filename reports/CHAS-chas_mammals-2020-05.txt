@@ -1,0 +1,189 @@
+Report for Institution Code CHAS, Resource chas_mammals
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 141
+Number of records retrieved in searches: 2066
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Italy ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 6
+	Country: United States ; Times: 117
+	Country: Switzerland ; Times: 2
+	Country: Argentina ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 2
+	Date: 2020-05-27 ; Times: 9
+	Date: 2020-05-26 ; Times: 4
+	Date: 2020-05-20 ; Times: 1
+	Date: 2020-05-23 ; Times: 4
+	Date: 2020-05-22 ; Times: 6
+	Date: 2020-05-29 ; Times: 3
+	Date: 2020-05-28 ; Times: 12
+	Date: 2020-05-18 ; Times: 1
+	Date: 2020-05-19 ; Times: 1
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-11 ; Times: 6
+	Date: 2020-05-12 ; Times: 1
+	Date: 2020-05-13 ; Times: 9
+	Date: 2020-05-14 ; Times: 1
+	Date: 2020-05-15 ; Times: 19
+	Date: 2020-05-16 ; Times: 5
+	Date: 2020-05-17 ; Times: 1
+	Date: 2020-05-30 ; Times: 7
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-08 ; Times: 14
+	Date: 2020-05-07 ; Times: 21
+	Date: 2020-05-06 ; Times: 6
+	Date: 2020-05-04 ; Times: 3
+	Date: 2020-05-03 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "lasiurus" ; Times: 1
+	Query: "order:Rodentia stateprovince:Colorado" ; Times: 2
+	Query: "class:mammalia county:&#34;furnas&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "order:Rodentia stateprovince:Utah" ; Times: 2
+	Query: "specificepithet:rufescens genus:Elephantulus" ; Times: 2
+	Query: "chaetodipus intermedius" ; Times: 2
+	Query: "cryptotis parva" ; Times: 3
+	Query: "year &gt;= 1950 year &lt;= 1955 institutioncode:CHAS" ; Times: 1
+	Query: "2074 peromyscus" ; Times: 1
+	Query: "&#34;peromyscus leucopus&#34; vntype:specimen stateprovince:&#34;massachusetts&#34; institutioncode:CHAS" ; Times: 1
+	Query: "Perognathus flavus" ; Times: 1
+	Query: "specificepithet:californicus genus:chaetodipus" ; Times: 1
+	Query: "vntype:specimen genus:Mus haslength:1" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 2
+	Query: "year &gt;= 1970 year &lt;= 1973 institutioncode:CHAS" ; Times: 1
+	Query: "Perognathus fasciatus" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus" ; Times: 1
+	Query: "family:Ursidae lifestage:adult" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "order:Rodentia stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "gbifdatasetid:4837d6b0-19fe-4fe4-9ddf-b62dd17a060e" ; Times: 8
+	Query: "&#34;Peromyscus leucopus&#34; vntype:specimen stateprovince:&#34;massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:bison year &gt;= 1969 year &lt;= 1984 institutioncode:CHAS" ; Times: 1
+	Query: "year &gt;= 1970 year &lt;= 1975 institutioncode:CHAS" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 2
+	Query: "Spermophilus variegatus" ; Times: 1
+	Query: "&#34;ochotona princeps&#34;" ; Times: 1
+	Query: "lepus americanus" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Mississippi&#34;" ; Times: 2
+	Query: "genus:Lontra stateprovince:&#34;Illinois&#34;" ; Times: 2
+	Query: "46562" ; Times: 1
+	Query: "year &gt;= 1969 year &lt;= 1984 institutioncode:CHAS" ; Times: 2
+	Query: "specificepithet:intermedius genus:Chaetodipus" ; Times: 1
+	Query: "lepus californicus" ; Times: 1
+	Query: "Peromyscus polionotus" ; Times: 1
+	Query: "&#34;Peromyscus leucopus&#34; vntype:specimen stateprovince:&#34;Massachusetts&#34; AND (NOT &#34;mcz, msb, usnm&#34;) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "Dicrostonyx groenlandicus" ; Times: 1
+	Query: "genus:Neotoma county:&#34;Los Angeles&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "1237" ; Times: 1
+	Query: "&#34;peromyscus sonoriensis&#34;" ; Times: 1
+	Query: "squirrel" ; Times: 2
+	Query: "urocyon female" ; Times: 1
+	Query: "Perognathus flavescens" ; Times: 2
+	Query: "&#34;Ochotona princeps&#34;" ; Times: 2
+	Query: "class:mammalia county:&#34;Furnas&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Lontra" ; Times: 2
+	Query: "procyon lotor" ; Times: 2
+	Query: "class:mammalia county:&#34;kearney&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 4
+	Query: "Peromyscus leucopus texanus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 12
+	Query: "lepus vntype:specimen stateprovince:&#34;Wisconsin&#34; year &lt;= 1990" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "genus:Peromyscus county:&#34;Los Angeles&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "year &gt;= 1965 year &lt;= 1970 institutioncode:CHAS" ; Times: 7
+	Query: "Martes martes" ; Times: 1
+	Query: "San Bernardino peromyscus" ; Times: 1
+	Query: "soricinae" ; Times: 1
+	Query: "bovidae" ; Times: 3
+	Query: "Brazos County" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "&#34;Peromyscus leucopus&#34; vntype:specimen stateprovince:&#34;Massachusetts&#34; AND (NOT mcz) basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "sylvilagus floridanus" ; Times: 1
+	Query: "ursus arctos" ; Times: 1
+	Query: "genus:Ondatra stateprovince:&#34;Illinois&#34;" ; Times: 2
+	Query: "Sylvilagus audubonii warreni" ; Times: 1
+	Query: "genus:Reithrodontomys county:&#34;Los Angeles&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Bison specificepithet:Bison" ; Times: 1
+	Query: "genus:Martes" ; Times: 4
+	Query: "2071 peromyscus" ; Times: 3
+	Query: "Cope Collection." ; Times: 1
+	Query: "year &gt;= 1970 year &lt;= 1979 institutioncode:CHAS" ; Times: 1
+	Query: "(bat) year &gt;= 1935 year &lt;= 1943" ; Times: 1
+	Query: "Napaeozapus insignis" ; Times: 2
+	Query: "V-1132" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 43 (out of 1106 download events in this period)
+Total number of records downloaded: 1860
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 33
+	Country: Unknown ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 1
+	Date: 2020-05-30 ; Times: 6
+	Date: 2020-05-23 ; Times: 5
+	Date: 2020-05-22 ; Times: 13
+	Date: 2020-05-28 ; Times: 2
+	Date: 2020-05-18 ; Times: 2
+	Date: 2020-05-08 ; Times: 4
+	Date: 2020-05-07 ; Times: 4
+	Date: 2020-05-06 ; Times: 2
+	Date: 2020-05-03 ; Times: 2
+	Date: 2020-05-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:Mus" ; Times: 6
+	Query: "order:Rodentia stateprovince:Colorado" ; Times: 2
+	Query: "order:Rodentia stateprovince:Utah" ; Times: 2
+	Query: "specificepithet:rufescens genus:Elephantulus" ; Times: 1
+	Query: "conepatus leuconotus" ; Times: 1
+	Query: "lepus vntype:specimen stateprovince:&#34;Wisconsin&#34; year &lt;= 1990" ; Times: 1
+	Query: "Perognathus flavus" ; Times: 1
+	Query: "vntype:specimen genus:Mus haslength:1" ; Times: 1
+	Query: "Perognathus fasciatus" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "order:Rodentia stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Perognathus merriami" ; Times: 1
+	Query: "order:Rodentia stateprovince:New Mexico" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "Peromyscus polionotus" ; Times: 1
+	Query: "genus:Gulo" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "Perognathus flavescens" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "spilogale gracilis" ; Times: 1
+	Query: "stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "mustela frenata" ; Times: 1
+	Query: "lynx rufus" ; Times: 2
+	Query: "Martes martes" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "vntype:specimen genus:Mus hasmass:1" ; Times: 2
+	Query: "order:Rodentia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Martes" ; Times: 2
+
+
+End of report.
