@@ -1,0 +1,309 @@
+Report for Institution Code CHAS, Resource chas_mammals
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 447
+Number of records retrieved in searches: 6681
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 420
+	Country: Mexico ; Times: 10
+	Country: El Salvador ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: Indonesia ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 5
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-24 ; Times: 6
+	Date: 2020-02-03 ; Times: 85
+	Date: 2020-02-26 ; Times: 24
+	Date: 2020-02-01 ; Times: 30
+	Date: 2020-02-20 ; Times: 5
+	Date: 2020-02-21 ; Times: 2
+	Date: 2020-02-04 ; Times: 31
+	Date: 2020-02-05 ; Times: 41
+	Date: 2020-02-08 ; Times: 4
+	Date: 2020-02-09 ; Times: 4
+	Date: 2020-02-28 ; Times: 7
+	Date: 2020-02-29 ; Times: 1
+	Date: 2020-02-11 ; Times: 14
+	Date: 2020-02-10 ; Times: 6
+	Date: 2020-02-13 ; Times: 5
+	Date: 2020-02-12 ; Times: 22
+	Date: 2020-02-15 ; Times: 7
+	Date: 2020-02-14 ; Times: 5
+	Date: 2020-02-17 ; Times: 8
+	Date: 2020-02-16 ; Times: 6
+	Date: 2020-02-19 ; Times: 2
+	Date: 2020-02-18 ; Times: 14
+	Date: 2020-02-02 ; Times: 37
+	Date: 2020-02-25 ; Times: 21
+	Date: 2020-02-27 ; Times: 4
+	Date: 2020-02-06 ; Times: 51
+	Date: 2020-02-07 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:americana genus:martes" ; Times: 1
+	Query: "(didelphis virginiana)" ; Times: 4
+	Query: "tamias striatus" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "utah museum" ; Times: 2
+	Query: "indiana bat" ; Times: 2
+	Query: "Peromyscus polionotus niveiventris" ; Times: 3
+	Query: "lemmus" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 8
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1931 year &lt;= 1940" ; Times: 1
+	Query: "zapus princeps" ; Times: 1
+	Query: "&#34;Lasiurus cinereus&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "(Didelphis virginiana)" ; Times: 5
+	Query: "&#34;spilogale putorius&#34;" ; Times: 1
+	Query: "LONTRA" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "north american porcupine" ; Times: 2
+	Query: "perognathus longimembris" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "spilogale putorius" ; Times: 3
+	Query: "porcupine" ; Times: 7
+	Query: "genus:Cratogeomys stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Didelphis virginiana" ; Times: 18
+	Query: "Canis latrans" ; Times: 1
+	Query: "Vespertilionidae vntype:specimen hasmass:1 haslength:1" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "neotoma magister" ; Times: 1
+	Query: "(erethizon dorsatum)" ; Times: 5
+	Query: "&#34;odocoileus virginianus&#34;" ; Times: 1
+	Query: "specificepithet:bursarius genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1700 year &lt;= 1950" ; Times: 1
+	Query: "genus:Didelphis" ; Times: 1
+	Query: "mammal hasmass:1" ; Times: 3
+	Query: "1625" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "spilogale" ; Times: 3
+	Query: "Geomys" ; Times: 4
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "&#34;Odocoileus virginianus&#34;" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 4
+	Query: "order:chiroptera hasmass:1" ; Times: 1
+	Query: "snowshoe hare" ; Times: 1
+	Query: "putorius" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 2
+	Query: "Tadarida brasiliensis (skull) hasmass:1 haslength:1" ; Times: 1
+	Query: "lepus" ; Times: 1
+	Query: "Virginia Opossum" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1800 year &lt;= 1950" ; Times: 1
+	Query: "red panda" ; Times: 2
+	Query: "sigmodon hispidus" ; Times: 4
+	Query: "didelphis virginia" ; Times: 1
+	Query: "sorex cinereus" ; Times: 12
+	Query: "allegheny woodrat" ; Times: 2
+	Query: "specificepithet:sabrinus genus:glaucomys county:&#34;clinton&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:Cryptotis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "mustela putorius" ; Times: 1
+	Query: "genus:Cratogeomys stateprovince:&#34;Texas&#34; year &gt;= 1700 year &lt;= 1950" ; Times: 1
+	Query: "didelphis &#34;virginiana&#34;" ; Times: 5
+	Query: "vntype:specimen genus:Geomys family:Geomyidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "&#34;Ochotona princeps&#34;" ; Times: 1
+	Query: "chiroptera hasmass:1" ; Times: 1
+	Query: "&#34;Erethizon Dorsatum&#34;" ; Times: 2
+	Query: "&#34;erethizon dorsatum&#34;" ; Times: 13
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;wisconsin&#34;" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon" ; Times: 2
+	Query: "vntype:specimen genus:Geomys family:Geomyidae" ; Times: 1
+	Query: "modestus specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 12
+	Query: "&#34;Erethizon dorsatum&#34;" ; Times: 39
+	Query: "&#34;Didelphis Virginiana&#34;" ; Times: 5
+	Query: "Elephantidae" ; Times: 1
+	Query: "(Erethizon dorsatum)" ; Times: 3
+	Query: "Opossum Didelphimorphia" ; Times: 2
+	Query: "Erethizon dorsatum" ; Times: 20
+	Query: "Skulls" ; Times: 1
+	Query: "&#34;Puma concolor&#34;" ; Times: 1
+	Query: "order:chiroptera hassex:1 hasmass:1" ; Times: 2
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "genus:heliosciurus institutioncode:CHAS" ; Times: 1
+	Query: "FMNH striatus" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1800 year &lt;= 1930" ; Times: 1
+	Query: "Erethizon &#34;dorsatum&#34;" ; Times: 1
+	Query: "Opossum" ; Times: 3
+	Query: "american black bear" ; Times: 1
+	Query: "virginia opossum" ; Times: 2
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1800 year &lt;= 1940" ; Times: 1
+	Query: "DIDELPHIS &#34;VIRGINIANA&#34;" ; Times: 2
+	Query: "specificepithet:pinetis genus:Geomys" ; Times: 1
+	Query: "( Erethizon)" ; Times: 1
+	Query: "Peromyscus floridanus" ; Times: 1
+	Query: "erethizon &#34;dorsatum&#34;" ; Times: 4
+	Query: "&#34;didelphis virginiana&#34;" ; Times: 11
+	Query: "lemmiscus curtatus" ; Times: 3
+	Query: "opossum" ; Times: 4
+	Query: "(opossum)" ; Times: 4
+	Query: "&#34;vulpes vulpes&#34;" ; Times: 1
+	Query: "&#34;Marmota monax&#34;" ; Times: 2
+	Query: "opossum didelphimorphia" ; Times: 2
+	Query: "vntype:specimen genus:Myotis continent:North America hasmass:1" ; Times: 1
+	Query: "Colombia vntype:specimen institutioncode:CHAS" ; Times: 1
+	Query: "genus:Scalopus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:832" ; Times: 1
+	Query: "genus:Cratogeomys stateprovince:&#34;Texas&#34; year &gt;= 1700 year &lt;= 1970" ; Times: 1
+	Query: "genus:Geomys family:Geomyidae basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "squirrel" ; Times: 1
+	Query: "Didelphis virginia" ; Times: 1
+	Query: "order:Chiroptera county:&#34;Los Angeles&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;nebraska&#34;" ; Times: 1
+	Query: "attwateri" ; Times: 1
+	Query: "&#34;Lasiurus borealis&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "(porcupine )" ; Times: 2
+	Query: "chrotorrhinus" ; Times: 1
+	Query: "neovison vison" ; Times: 3
+	Query: "&#34;Erethizon Dorsatum &#34;" ; Times: 2
+	Query: "genus:Geomys" ; Times: 1
+	Query: "Glaucomys volans (skull) hasmass:1 haslength:1" ; Times: 1
+	Query: "sylvilagus audubonii" ; Times: 3
+	Query: "(virginia opossum)" ; Times: 1
+	Query: "ursus arctos" ; Times: 1
+	Query: "mammalian" ; Times: 2
+	Query: "neovison" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;michigan&#34;" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 4
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1700 year &lt;= 1950" ; Times: 1
+	Query: "lontra" ; Times: 1
+	Query: "gray wolf" ; Times: 3
+	Query: "mephitis mephitis" ; Times: 1
+	Query: "deer" ; Times: 1
+	Query: "class:mammalia catalognumber:1392" ; Times: 2
+	Query: "genus:Cratogeomys stateprovince:&#34;Texas&#34; year &gt;= 1700 year &lt;= 1980" ; Times: 1
+	Query: "catalognumber:1392" ; Times: 1
+	Query: "(porcupine)" ; Times: 1
+	Query: "locality:reading" ; Times: 1
+	Query: "catalognumber:1625" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "Pika" ; Times: 2
+	Query: "gbifdatasetid:4837d6b0-19fe-4fe4-9ddf-b62dd17a060e" ; Times: 5
+	Query: "Didelphis &#34;virginiana&#34;" ; Times: 6
+	Query: "Mushroom" ; Times: 1
+	Query: "North American porcupine" ; Times: 1
+	Query: "family:Elephantidae" ; Times: 1
+	Query: "4846" ; Times: 1
+	Query: "genus:Blarina stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "elephant" ; Times: 2
+	Query: "specificepithet:sabrinus genus:glaucomys county:&#34;essex&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "sciurus niger" ; Times: 3
+	Query: "specificepithet:agilis genus:Dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "procyon lotor" ; Times: 3
+	Query: "specificepithet:Fuscus genus:Eptesicus family:Vespertilionidae stateprovince:&#34;Florida&#34;" ; Times: 3
+	Query: "vntype:specimen (Skulls) hasmedia:1" ; Times: 1
+	Query: "&#34;Didelphis virginiana&#34;" ; Times: 48
+	Query: "specificepithet:hudsonius genus:Zapus" ; Times: 1
+	Query: "order:rodentia hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:bursarius genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1700 year &lt;= 1930" ; Times: 1
+	Query: "genus:Lemmiscus county:&#34;Moffat&#34; stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "7239" ; Times: 1
+	Query: "genus:Cratogeomys stateprovince:&#34;Texas&#34; year &gt;= 1700 year &lt;= 1960" ; Times: 1
+	Query: "order:Chiroptera hassex:1 hasmass:1" ; Times: 1
+	Query: "Didelphis Virginiana" ; Times: 1
+	Query: "specificepithet:bursarius genus:Geomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "canis latrans" ; Times: 2
+	Query: "(&#34;Erethizon dorsatum&#34;)" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 2
+	Query: "7742" ; Times: 1
+	Query: "catalognumber:4916" ; Times: 1
+	Query: "Erethizon Dorsatum" ; Times: 1
+	Query: "Vespertilionidae vntype:specimen continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1931 year &lt;= 1950" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 51 (out of 1023 download events in this period)
+Total number of records downloaded: 2590
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 41
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-05 ; Times: 2
+	Date: 2020-02-24 ; Times: 1
+	Date: 2020-02-25 ; Times: 1
+	Date: 2020-02-26 ; Times: 5
+	Date: 2020-02-27 ; Times: 4
+	Date: 2020-02-20 ; Times: 2
+	Date: 2020-02-21 ; Times: 2
+	Date: 2020-02-04 ; Times: 4
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-09 ; Times: 1
+	Date: 2020-02-11 ; Times: 5
+	Date: 2020-02-10 ; Times: 3
+	Date: 2020-02-13 ; Times: 1
+	Date: 2020-02-12 ; Times: 4
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-14 ; Times: 2
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-16 ; Times: 1
+	Date: 2020-02-19 ; Times: 1
+	Date: 2020-02-18 ; Times: 1
+	Date: 2020-02-03 ; Times: 1
+	Date: 2020-02-06 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;wisconsin&#34;" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1800 year &lt;= 1930" ; Times: 1
+	Query: "mammal hasmass:1" ; Times: 1
+	Query: "class:Mammalia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Peromyscus polionotus niveiventris" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1931 year &lt;= 1940" ; Times: 1
+	Query: "zapus princeps" ; Times: 1
+	Query: "&#34;Lasiurus cinereus&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "vntype:specimen order:Primates" ; Times: 1
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "sorex cinereus" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "vntype:specimen genus:Myotis continent:North America hasmass:1" ; Times: 1
+	Query: "county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "louisiana" ; Times: 1
+	Query: "genus:Cratogeomys stateprovince:&#34;Texas&#34; year &gt;= 1700 year &lt;= 1970" ; Times: 1
+	Query: "genus:Geomys family:Geomyidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Cryptotis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Blarina stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 2
+	Query: "genus:peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "sciurus niger" ; Times: 1
+	Query: "lynx canadensis" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;nebraska&#34;" ; Times: 1
+	Query: "distance(location,geopoint(33.00721728873146,-116.82047633587615))&lt;47696" ; Times: 1
+	Query: "specificepithet:bursarius genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1700 year &lt;= 1950" ; Times: 1
+	Query: "&#34;Lasiurus borealis&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "modestus specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "order:Chiroptera hassex:1 hasmass:1" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 3
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "genus:Scalopus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "sigmodon hispidus" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "order:rodentia hassex:1 hasmass:1" ; Times: 1
+	Query: "Myotis ciliolabrum basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;michigan&#34;" ; Times: 1
+	Query: "Glaucomys volans (skull) hasmass:1 haslength:1" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+
+
+End of report.
