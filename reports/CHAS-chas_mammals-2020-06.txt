@@ -1,0 +1,126 @@
+Report for Institution Code CHAS, Resource chas_mammals
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 105
+Number of records retrieved in searches: 1200
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 3
+	Country: United States ; Times: 84
+	Country: United Kingdom ; Times: 6
+	Country: Peru ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Bolivia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-08 ; Times: 17
+	Date: 2020-06-09 ; Times: 6
+	Date: 2020-06-06 ; Times: 9
+	Date: 2020-06-07 ; Times: 10
+	Date: 2020-06-04 ; Times: 15
+	Date: 2020-06-02 ; Times: 9
+	Date: 2020-06-03 ; Times: 6
+	Date: 2020-06-01 ; Times: 7
+	Date: 2020-06-14 ; Times: 2
+	Date: 2020-06-10 ; Times: 1
+	Date: 2020-06-11 ; Times: 8
+	Date: 2020-06-12 ; Times: 4
+	Date: 2020-06-17 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "V-1132" ; Times: 1
+	Query: "collared lemming" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 3
+	Query: "Microtus longicaudus" ; Times: 2
+	Query: "grey squirrel" ; Times: 2
+	Query: "vntype:specimen class:Mammalia hastypestatus:1" ; Times: 1
+	Query: "Red panda" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 16
+	Query: "catalognumber:4018" ; Times: 1
+	Query: "5661" ; Times: 1
+	Query: "white tailed deer" ; Times: 1
+	Query: "american beaver" ; Times: 1
+	Query: "bobcat" ; Times: 2
+	Query: "genus:Mustela specificepithet:nigripes" ; Times: 1
+	Query: "gbifdatasetid:4837d6b0-19fe-4fe4-9ddf-b62dd17a060e" ; Times: 2
+	Query: "muskrat" ; Times: 1
+	Query: "puma" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 2
+	Query: "year &gt;= 1970 year &lt;= 1975 institutioncode:CHAS" ; Times: 2
+	Query: "nigra indiana" ; Times: 1
+	Query: "eastern coyote" ; Times: 3
+	Query: "(erminea)" ; Times: 1
+	Query: "Eptesicus fuscus (skin)" ; Times: 1
+	Query: "mustela" ; Times: 4
+	Query: "Chinchilla chinchilla" ; Times: 3
+	Query: "year &gt;= 1975 year &lt;= 1980 institutioncode:CHAS" ; Times: 2
+	Query: "specificepithet:lucifugus genus:Myotis stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "deer mouse" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Cynomys gunnisoni" ; Times: 2
+	Query: "scalopus aquaticus" ; Times: 3
+	Query: "(neovison vison)" ; Times: 1
+	Query: "prairie dog" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 14
+	Query: "Sus scrofa" ; Times: 6
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "county:&#34;Douglas&#34; stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "FLAMINGO" ; Times: 1
+	Query: "specificepithet:floridanus genus:sylvilagus" ; Times: 3
+	Query: "neovison vison" ; Times: 1
+	Query: "eastern coyote data" ; Times: 1
+	Query: "lontra" ; Times: 1
+	Query: "sylvilagus floridanus" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "order:Soricomorpha stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:floridanus genus:sylvilagus country:&#34;united states&#34;" ; Times: 2
+	Query: "raccoon" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 474 download events in this period)
+Total number of records downloaded: 1384
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: India ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-08 ; Times: 1
+	Date: 2020-06-02 ; Times: 1
+	Date: 2020-06-04 ; Times: 9
+	Date: 2020-06-11 ; Times: 2
+	Date: 2020-06-03 ; Times: 4
+	Date: 2020-06-01 ; Times: 2
+	Date: 2020-06-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "muskrat" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 4
+	Query: "stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "grey squirrel" ; Times: 1
+	Query: "Florida" ; Times: 1
+	Query: "scalopus aquaticus" ; Times: 3
+	Query: "order:Soricomorpha stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "specificepithet:floridanus genus:sylvilagus country:&#34;united states&#34;" ; Times: 1
+	Query: "american beaver" ; Times: 1
+	Query: "Myotis lucifugus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "Myotis lucifugus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "white tailed deer" ; Times: 1
+
+
+End of report.
