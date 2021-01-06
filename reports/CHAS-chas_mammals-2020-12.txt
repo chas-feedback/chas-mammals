@@ -1,0 +1,230 @@
+Report for Institution Code CHAS, Resource chas_mammals
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 249
+Number of records retrieved in searches: 3406
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 170
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: El Salvador ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: India ; Times: 7
+	Country: United Kingdom ; Times: 29
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Spain ; Times: 23
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-30 ; Times: 7
+	Date: 2020-12-31 ; Times: 4
+	Date: 2020-12-09 ; Times: 14
+	Date: 2020-12-08 ; Times: 5
+	Date: 2020-12-07 ; Times: 9
+	Date: 2020-12-06 ; Times: 9
+	Date: 2020-12-05 ; Times: 9
+	Date: 2020-12-04 ; Times: 51
+	Date: 2020-12-03 ; Times: 21
+	Date: 2020-12-02 ; Times: 20
+	Date: 2020-12-01 ; Times: 10
+	Date: 2020-12-25 ; Times: 3
+	Date: 2020-12-24 ; Times: 4
+	Date: 2020-12-26 ; Times: 1
+	Date: 2020-12-20 ; Times: 9
+	Date: 2020-12-23 ; Times: 2
+	Date: 2020-12-22 ; Times: 1
+	Date: 2020-12-29 ; Times: 1
+	Date: 2020-12-18 ; Times: 9
+	Date: 2020-12-19 ; Times: 1
+	Date: 2020-12-10 ; Times: 3
+	Date: 2020-12-11 ; Times: 6
+	Date: 2020-12-13 ; Times: 9
+	Date: 2020-12-14 ; Times: 22
+	Date: 2020-12-15 ; Times: 14
+	Date: 2020-12-16 ; Times: 1
+	Date: 2020-12-17 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "(sciurus niger)" ; Times: 1
+	Query: "Elephant" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "3790" ; Times: 1
+	Query: "indian squirrel" ; Times: 2
+	Query: "scientificname:Glaucomys sabrinus stateprovince:new york" ; Times: 3
+	Query: "african elephant specimens" ; Times: 1
+	Query: "microtus ochrogaster vntype:specimen hasmedia:1" ; Times: 1
+	Query: "puma concolor" ; Times: 6
+	Query: "Mus musculus Linnaeus" ; Times: 1
+	Query: "Myotis myotis" ; Times: 1
+	Query: "elephantulus" ; Times: 1
+	Query: "Otospermophilus beecheyi" ; Times: 1
+	Query: "1311" ; Times: 1
+	Query: "fox squirrel" ; Times: 5
+	Query: "Vulpes lagopus" ; Times: 2
+	Query: "neotoma fuscipes (streatori OR simplex OR luciana OR macrotis OR martirensis)" ; Times: 1
+	Query: "class:Mammalia locality:Great Basin" ; Times: 1
+	Query: "lontra canadensis" ; Times: 2
+	Query: "scientificname:Blarina brevicauda stateprovince:new york" ; Times: 2
+	Query: "spilogale" ; Times: 3
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "(red panda)" ; Times: 1
+	Query: "vntype:specimen class:mammalia preparations:skull massing &gt;= 40 hasmass:1 hasmedia:1" ; Times: 1
+	Query: "specificepithet:nivalis genus:mustela stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "white tailed deer" ; Times: 12
+	Query: "lasiurus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus massing &gt;= 20000 haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:brevicauda genus:Blarina hasmass:1 haslength:1" ; Times: 1
+	Query: "vntype:specimen family:talpidae (skull) hasmedia:1" ; Times: 1
+	Query: "family:soricidae hasmedia:1" ; Times: 4
+	Query: "elephantidae" ; Times: 3
+	Query: "specificepithet:virginianus genus:Odocoileus massing &gt;= 10000 hassex:1 hasmass:1" ; Times: 4
+	Query: "Tamiasciurus douglasii" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus massing &gt;= 100000 hassex:1 hasmass:1" ; Times: 2
+	Query: "scientificname:Sciurus carolinensis stateprovince:new york" ; Times: 2
+	Query: "microtus ochrogaster" ; Times: 7
+	Query: "lontra Canadensis" ; Times: 4
+	Query: "genus:urocyon country:&#34;United states&#34;" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "genus:Paraxerus hasmass:1" ; Times: 3
+	Query: "white tail deer" ; Times: 4
+	Query: "procyon lotor" ; Times: 1
+	Query: "white tailed-deer hassex:1 hasmass:1" ; Times: 2
+	Query: "virginia opossum" ; Times: 1
+	Query: "specificepithet:nigripes" ; Times: 6
+	Query: "class:mammalia hasmass:1 hasmedia:1 -chiroptera" ; Times: 2
+	Query: "specificepithet:dorsalis genus:tamias institutioncode:CHAS" ; Times: 1
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "genus:Microdipodops stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "vntype:specimen family:soricidae (skull) institutioncode:CHAS hasmedia:1" ; Times: 6
+	Query: "(white tailed deer) hassex:1 hasmass:1" ; Times: 5
+	Query: "Sciurus niger" ; Times: 1
+	Query: "Elephantidae" ; Times: 1
+	Query: "specificepithet:frenata genus:mustela stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "11296" ; Times: 1
+	Query: "scientificname:Vulpes vulpes stateprovince:new york" ; Times: 2
+	Query: "specificepithet:brevicauda genus:Blarina AND (female) hasmass:1 haslength:1" ; Times: 1
+	Query: "class:mammalia hasmass:1 hasmedia:1 -chiroptera -rodentia" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 2
+	Query: "gray fox" ; Times: 1
+	Query: "lutra hasmass:1" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;minnesota&#34;" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus massing &gt;= 2000 hassex:1 hasmass:1" ; Times: 2
+	Query: "2885" ; Times: 1
+	Query: "hasmedia:1 AND Microtus ochrogaster" ; Times: 1
+	Query: "arlington" ; Times: 1
+	Query: "white tailed deer hassex:1 hasmass:1" ; Times: 3
+	Query: "Procyon lotor" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus massing &gt;= 30000 hassex:1 hasmass:1" ; Times: 1
+	Query: "genus:urocyon stateprovince:&#34;georgia&#34; country:&#34;United states&#34;" ; Times: 1
+	Query: "specificepithet:hudsonius genus:Zapus hasmass:1" ; Times: 1
+	Query: "Equus caballus" ; Times: 1
+	Query: "squirrel" ; Times: 3
+	Query: "specificepithet:americanus genus:Ursus haslength:1" ; Times: 1
+	Query: "white tail deer hassex:1 hasmass:1" ; Times: 1
+	Query: "Antrozous pallidus" ; Times: 1
+	Query: "Pipistrellus pipistrellus" ; Times: 1
+	Query: "pika" ; Times: 6
+	Query: "peromyscus boylii county:los angeles" ; Times: 1
+	Query: "Erethizon" ; Times: 1
+	Query: "brazos county" ; Times: 1
+	Query: "didelphidae hasmass:1 haslength:1" ; Times: 2
+	Query: "specificepithet:americanus genus:ursus haslength:1" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus NOT (virgin) massing &gt;= 20000 hassex:1 hasmass:1" ; Times: 2
+	Query: "roy creek" ; Times: 1
+	Query: "deer" ; Times: 1
+	Query: "sciurus niger niger" ; Times: 3
+	Query: "specificepithet:virginianus genus:Odocoileus massing &gt;= 20000 hassex:1 hasmass:1" ; Times: 7
+	Query: "genus:Ochotona" ; Times: 2
+	Query: "Puma concolor" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus AND (NOT virgin) massing &gt;= 20000 hassex:1 hasmass:1" ; Times: 1
+	Query: "castor" ; Times: 1
+	Query: "mammals data" ; Times: 1
+	Query: "USNM mammals" ; Times: 1
+	Query: "scientificname:Procyon lotor" ; Times: 24
+	Query: "dipodomys ordii" ; Times: 1
+	Query: "scientificname:Tamiasciurus hudsonicus stateprovince:new york" ; Times: 2
+	Query: "specificepithet:brevicauda genus:Blarina AND (male) year &gt;= 1900 year &lt;= 2020 hasmass:1 haslength:1" ; Times: 1
+	Query: "&#34;Canis rufus&#34;" ; Times: 2
+	Query: "specificepithet:virginianus genus:Odocoileus hasmass:1 hasmass:1" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "specificepithet:brevicauda genus:Blarina AND (male) hasmass:1 haslength:1" ; Times: 2
+	Query: "class:mammalia hasmass:1 hasmedia:1" ; Times: 2
+	Query: "specificepithet:virginianus genus:Odocoileus AND massing &gt;= 20000 hassex:1 hasmass:1" ; Times: 1
+	Query: "cmnh" ; Times: 2
+	Query: "vntype:specimen family:soricidae hasmedia:1" ; Times: 1
+	Query: "yellowstone" ; Times: 1
+	Query: "genus:Ursus americanus hassex:1 haslength:1" ; Times: 1
+	Query: "scientificname:Microtus pennsylvanicus stateprovince:new york" ; Times: 2
+	Query: "specificepithet:virginianus genus:Odocoileus hasmass:1" ; Times: 1
+	Query: "1282" ; Times: 1
+	Query: "canis latrans" ; Times: 2
+	Query: "Black Bear" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus hassex:1 hasmass:1" ; Times: 5
+	Query: "vntype:specimen family:soricidae (skull) hasmedia:1" ; Times: 4
+	Query: "vntype:specimen class:mammalia preparations:skull -msb massing &gt;= 40 hasmass:1 hasmedia:1" ; Times: 1
+	Query: "microtus pinetorum vntype:specimen hasmedia:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 705 download events in this period)
+Total number of records downloaded: 1252
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Romania ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 4
+	Country: United States ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-22 ; Times: 1
+	Date: 2020-12-09 ; Times: 1
+	Date: 2020-12-07 ; Times: 4
+	Date: 2020-12-11 ; Times: 2
+	Date: 2020-12-12 ; Times: 1
+	Date: 2020-12-04 ; Times: 1
+	Date: 2020-12-03 ; Times: 6
+	Date: 2020-12-02 ; Times: 2
+	Date: 2020-12-01 ; Times: 3
+	Date: 2020-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:sciuridae" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 1
+	Query: "mallard" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "family:Muridae hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "&#34;Canis rufus&#34;" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "genus:Lepus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Vulpes lagopus" ; Times: 1
+	Query: "genus:Martes specificepithet:americana*" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Yucatan&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus haslength:1" ; Times: 1
+	Query: "Lepus capensis" ; Times: 1
+	Query: "class:Mammalia locality:Great Basin" ; Times: 1
+	Query: "genus:Ursus americanus hassex:1 haslength:1" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus hasmass:1" ; Times: 2
+	Query: "specificepithet:dorsalis genus:tamias institutioncode:CHAS" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Chihuahua&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "caracal caracal" ; Times: 1
+
+
+End of report.
